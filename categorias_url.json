@@ -1,0 +1,796 @@
+{
+    "01.0 Lácteos y productos análogos": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=0",
+        "01.1 Leche y productos lácteos líquidos": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=2",
+            "01.1.1 Leche líquida (natural / simple)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=3"
+            },
+            "01.1.2 Otras leches líquidas (naturales / simples)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=4"
+            },
+            
+            "01.1.4 Bebidas lácteas líquidas aromatizadas": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=6"
+            }
+        },
+        "01.2 Productos lácteos fermentados y cuajados (naturales / simples)": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=7",
+            "01.2.1 Leches fermentadas (naturales / simples)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=8",
+                "01.2.1.1 Leches fermentadas sin tratamiento térmico después de la fermentación": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=9"
+                },
+                "01.2.1.2 Leches fermentadas tratadas térmicamente después de la fermentación": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=10"
+                }
+            },
+            "01.2.2 Cuajada (natural / simple)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=11"
+            }
+        },
+        "01.3 Leche condensada y productos análogos (naturales)": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=12",
+            "01.3.1 Leche condensada (natural / simple)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=13"
+            },
+            "01.3.2 Blanqueadores de bebidas": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=14"
+            }
+        },
+        "01.4 Nata (crema) (natural / simple) y productos análogos": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=15",
+            "01.4.1 Nata (crema) pasteurizada (natural / simple)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=16"
+            },
+            "01.4.2 Natas esterilizadas y UHT, natas para batir o batidas y de grasa reducida": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=17"
+            },
+            "01.4.3 Nata (crema) cuajada (natural / simple)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=18"
+            },
+            "01.4.4 Productos análogos a la nata (crema)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=19"
+            }
+        },
+        "01.5 Leche en polvo y nata (crema) en polvo y productos análogos": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=20",
+            "01.5.1 Leche en polvo y nata (crema) en polvo (naturales)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=21"
+            },
+            "01.5.2 Productos análogos a la leche y la nata (crema) en polvo": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=22"
+            }
+        },
+        "01.6 Queso y productos análogos": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=23",
+            "01.6.1 Queso no madurado": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=24"
+            },
+            "01.6.2 Queso madurado": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=25",
+                "01.6.2.1 Queso madurado, incluida la corteza": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=26"
+                },
+                "01.6.2.2 Corteza de queso madurado": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=27"
+                },
+                "01.6.2.3 Queso en polvo (para reconstitución)": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=28"
+                }
+            },
+            "01.6.3 Queso de suero": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=29"
+            },
+            "01.6.4 Queso elaborado": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=30",
+                "01.6.4.1 Queso elaborado natural": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=31"
+                },
+                "01.6.4.2 Queso elaborado aromatizado": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=32"
+                }
+            },
+            "01.6.5 Productos análogos al queso": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=33"
+            },
+            "01.6.6 Queso de proteínas del suero": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=34"
+            }
+        },
+        "01.7 Postres lácteos": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=35"
+        },
+        "01.8 Suero y productos a base de suero": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=36",
+            "01.8.1 Suero líquido y productos a base de suero líquido": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=37"
+            },
+            "01.8.2 Suero en polvo y productos a base de suero en polvo": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=38"
+            }
+        }
+    },
+    "02.0 Grasas y aceites y emulsiones grasas": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=39",
+        "02.1 Grasas y aceites prácticamente exentos de agua": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=40",
+            "02.1.1 Aceite de mantequilla, grasa de leche anhidra, ghee": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=41"
+            },
+            "02.1.2 Grasas y aceites vegetales": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=42"
+            },
+            "02.1.3 Grasas de origen animal (manteca de cerdo, sebo, aceite de pescado)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=43"
+            }
+        },
+        "02.2 Emulsiones grasas tipo agua en aceite": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=44",
+            "02.2.1 Mantequilla (manteca)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=45"
+            },
+            "02.2.2 Grasas para untar y mezclas": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=49"
+            }
+        },
+        "02.3 Emulsiones grasas mezcladas o aromatizadas": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=50"
+        },
+        "02.4 Postres a base de grasas": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=51"
+        }
+    },
+    "03.0 Hielos comestibles y sorbetes": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=52"
+    },
+    "04.0 Frutas y hortalizas, algas, nueces y semillas": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=53",
+        "04.1 Frutas": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=54",
+            "04.1.1 Frutas frescas": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=55",
+                "04.1.1.1 No tratadas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=56"
+                },
+                "04.1.1.2 Tratadas en superficie": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=57"
+                },
+                "04.1.1.3 Peladas o cortadas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=58"
+                }
+            },
+            "04.1.2 Frutas elaboradas": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=59",
+                "04.1.2.1 Congeladas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=60"
+                },
+                "04.1.2.2 Desecadas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=61"
+                },
+                "04.1.2.3 En vinagre/aceite/salmuera": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=62"
+                },
+                "04.1.2.4 En conserva": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=63"
+                },
+                "04.1.2.5 Confituras y mermeladas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=64"
+                },
+                "04.1.2.6 Untables de fruta": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=65"
+                },
+                "04.1.2.7 Frutas confitadas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=66"
+                },
+                "04.1.2.8 Preparados de fruta": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=67"
+                },
+                "04.1.2.9 Postres de fruta": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=68"
+                },
+                "04.1.2.10 Fermentadas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=69"
+                },
+                "04.1.2.11 Rellenos de fruta": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=70"
+                },
+                "04.1.2.12 Cocidas o fritas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=71"
+                }
+            }
+        },
+        "04.2 Hortalizas, algas, nueces y semillas": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=72",
+            "04.2.1 Frescas": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=73",
+                "04.2.1.1 No tratadas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=74"
+                },
+                "04.2.1.2 Tratadas en superficie": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=75"
+                },
+                "04.2.1.3 Peladas o cortadas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=76"
+                }
+            },
+            "04.2.2 Elaboradas": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=77",
+                "04.2.2.1 Congeladas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=78"
+                },
+                "04.2.2.2 Desecadas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=79"
+                },
+                "04.2.2.3 En vinagre/salsa de soja": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=80"
+                },
+                "04.2.2.4 En conserva": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=81"
+                },
+                "04.2.2.5 Purés y untables": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=82"
+                },
+                "04.2.2.6 Pulpas y preparados": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=83"
+                },
+                "04.2.2.7 Fermentadas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=84"
+                },
+                "04.2.2.8 Cocidas o fritas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=85"
+                }
+            }
+        }
+    },
+    "05.0 Confitería": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=86",
+        "05.1 Productos de cacao y chocolate": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=87",
+            "05.1.1 Mezclas de cacao en polvo o pasta": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=88"
+            },
+            "05.1.2 Jarabes de cacao": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=89"
+            },
+            "05.1.3 Untables de cacao": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=90"
+            },
+            "05.1.4 Chocolate": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=91"
+            },
+            "05.1.5 Sucedáneos del chocolate": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=92"
+            }
+        },
+        "05.2 Dulces": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=93",
+            "05.2.1 Caramelos duros": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=94"
+            },
+            "05.2.2 Caramelos blandos": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=95"
+            },
+            "05.2.3 Turrón y mazapán": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=96"
+            }
+        },
+        "05.3 Goma de mascar": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=97"
+        },
+        "05.4 Decoraciones y salsas dulces": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=98"
+        }
+    },
+    "06.0 Cereales y productos a base de cereales": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=99",
+        "06.1 Granos enteros o triturados": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=100"
+        },
+        "06.2 Harinas y almidones": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=101",
+            "06.2.1 Harinas": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=102"
+            },
+            "06.2.2 Almidones": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=103"
+            }
+        },
+        "06.3 Cereales para desayuno": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=104"
+        },
+        "06.4 Pastas y fideos": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=105",
+            "06.4.1 Frescos": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=106"
+            },
+            "06.4.2 Deshidratados": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=107"
+            },
+            "06.4.3 Precocidos": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=108"
+            }
+        },
+        "06.5 Postres de cereales": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=109"
+        },
+        "06.6 Mezclas para rebozar": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=110"
+        },
+        "06.7 Arroz procesado": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=111"
+        },
+        "06.8 Productos de soja": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=112",
+            "06.8.1 Bebidas de soja ": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=269"
+            },
+            "06.8.2 Película de soja ": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=270"
+            },
+            "06.8.3 Tofu →": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=271"
+            },
+            "06.8.4 Cuajada semideshidratada ": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=272",
+                "06.8.4.1 Frita o en salsa →": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=273"
+                },
+                "06.8.4.2 Frita →": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=274"
+                },
+                "06.8.4.3 Otros →": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=275"
+                }
+            },
+            "06.8.5 Tofu seco →": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=276"
+            },
+            "06.8.6 Soja fermentada →": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=277"
+            },
+            "06.8.7 Cuajada fermentada →": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=278"
+            },
+            "06.8.8 Otros →": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=279"
+            }
+        }
+    },
+    "07.0 Productos de panadería": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=113",
+        "07.1 Pan y panecillos": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=114",
+            "07.1.1 Panes": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=115",
+                "07.1.1.1 Levadura": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=116"
+                },
+                "07.1.1.2 Bicarbonato": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=117"
+                }
+            },
+            "07.1.2 Crackers": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=118"
+            },
+            "07.1.3 Otros productos": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=119"
+            },
+            "07.1.4 Productos similares al pan": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=120"
+            },
+            "07.1.5 Pan dulce al vapor": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=121"
+            },
+            "07.1.6 Mezclas": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=122"
+            }
+        },
+        "07.2 Panadería fina": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=123",
+            "07.2.1 Tortas y pasteles": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=124"
+            },
+            "07.2.2 Donas y similares": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=125"
+            },
+            "07.2.3 Mezclas para pastelería": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=126"
+            }
+        }
+    },
+    "08.0 Carne y productos cárnicos": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=127",
+        "08.1 Carne fresca": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=128",
+            "08.1.1 En cortes": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=129"
+            },
+            "08.1.2 Picada": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=130"
+            }
+        },
+        "08.2 Carne procesada": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=131",
+            "08.2.1 Sin tratamiento térmico": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=132",
+                "08.2.1.1 Curados": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=133"
+                },
+                "08.2.1.2 Desecados": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=134"
+                },
+                "08.2.1.3 Fermentados": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=135"
+                }
+            },
+            "08.2.2 Tratados térmicamente": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=136"
+            },
+            "08.2.3 Congelados": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=137"
+            }
+        },
+        "08.3 Carne picada procesada": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=138",
+            "08.3.1 Sin tratamiento térmico": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=139",
+                "08.3.1.1 Curados": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=140"
+                },
+                "08.3.1.2 Desecados": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=141"
+                },
+                "08.3.1.3 Fermentados": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=142"
+                }
+            },
+            "08.3.2 Tratados térmicamente": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=143"
+            },
+            "08.3.3 Congelados": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=144"
+            }
+        },
+        "08.4 Tripas comestibles": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=145"
+        }
+    },
+    "09.0 Pescado y productos pesqueros": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=146",
+        "09.1 Frescos": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=147",
+            "09.1.1 Pescado fresco": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=148"
+            },
+            "09.1.2 Mariscos frescos": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=149"
+            }
+        },
+        "09.2 Elaborados": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=150",
+            "09.2.1 Congelados": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=151"
+            },
+            "09.2.2 Rebozados": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=152"
+            },
+            "09.2.3 Picados congelados": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=153"
+            },
+            "09.2.4 Cocidos o fritos": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=154",
+                "09.2.4.1 Pescado cocido": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=155"
+                },
+                "09.2.4.2 Mariscos cocidos": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=156"
+                },
+                "09.2.4.3 Fritos": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=157"
+                }
+            },
+            "09.2.5 Ahumados o fermentados": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=158"
+            }
+        },
+        "09.3 Semiconservas": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=159",
+            "09.3.1 Marinados": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=160"
+            },
+            "09.3.2 Escabechados": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=161"
+            },
+            "09.3.3 Huevas y sucedáneos": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=162"
+            },
+            "09.3.4 Otros semiconservados": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=163"
+            }
+        },
+        "09.4 Conservas": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=164"
+        }
+    },
+    "10.0 Huevos y productos a base de huevo": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=165",
+        "10.1 Huevos frescos": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=166"
+        },
+        "10.2 Productos a base de huevo": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=167",
+            "10.2.1 Productos líquidos a base de huevo": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=168"
+            },
+            "10.2.2 Productos congelados a base de huevo": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=169"
+            },
+            "10.2.3 Productos en polvo o cuajados por calor": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=170"
+            }
+        },
+        "10.3 Huevos en conserva": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=171"
+        },
+        "10.4 Postres a base de huevo": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=172"
+        }
+    },
+    "11.0 Edulcorantes, incluida la miel": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=173",
+        "11.1 Azúcares refinados y en bruto": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=174",
+            "11.1.1 Azúcar blanco, dextrosa y fructosa": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=175"
+            },
+            "11.1.2 Azúcar en polvo y dextrosa en polvo": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=176"
+            },
+            "11.1.3 Azúcar y jarabes": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=177",
+                "11.1.3.1 Jarabe de glucosa deshidratado (golosinas)": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=178"
+                },
+                "11.1.3.2 Jarabe de glucosa (golosinas)": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=179"
+                }
+            },
+            "11.1.4 Lactosa": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=180"
+            },
+            "11.1.5 Azúcar de plantación o refinería": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=181"
+            }
+        },
+        "11.2 Azúcar moreno": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=182"
+        },
+        "11.3 Soluciones azucaradas y jarabes": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=183"
+        },
+        "11.4 Otros azúcares y jarabes": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=184"
+        },
+        "11.5 Miel": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=185"
+        },
+        "11.6 Edulcorantes de mesa": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=186"
+        }
+    },
+    "12.0 Sales, especias, sopas, salsas, ensaladas y productos proteínicos": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=187",
+        "12.1 Sal y sucedáneos de la sal": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=188",
+            "12.1.1 Sal": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=189"
+            },
+            "12.1.2 Sucedáneos de la sal": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=190"
+            }
+        },
+        "12.2 Hierbas aromáticas, especias, aderezos y condimentos": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=191",
+            "12.2.1 Hierbas aromáticas y especias": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=192"
+            },
+            "12.2.2 Aderezos y condimentos": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=193"
+            }
+        },
+        "12.3 Vinagres": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=194"
+        },
+        "12.4 Mostazas": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=195"
+        },
+        "12.5 Sopas y caldos": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=196",
+            "12.5.1 Sopas y caldos listos para el consumo →": {},
+            "12.5.2 Mezclas para sopas y caldos": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=198"
+            }
+        },
+        "12.6 Salsas y productos análogos": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=199",
+            "12.6.1 Salsas emulsionadas y para mojar": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=200"
+            },
+            "12.6.2 Salsas no emulsionadas": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=201"
+            },
+            "12.6.3 Mezclas para salsas y gravies": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=202"
+            },
+            "12.6.4 Salsas ligeras": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=203"
+            }
+        },
+        "12.7 Ensaladas y untables": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=204"
+        },
+        "12.8 Levadura y productos análogos": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=205"
+        },
+        "12.9 Aderezos y condimentos a base de soja": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=206",
+            "12.9.1 Pasta de soja fermentada (miso)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=207"
+            },
+            "12.9.2 Salsa de soja": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=211",
+                "12.9.2.1 Fermentada": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=212"
+                },
+                "12.9.2.2 No fermentada": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=213"
+                },
+                "12.9.2.3 Otras salsas de soja": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=214"
+                }
+            }
+        },
+        "12.10 Productos proteínicos distintos a los de soja": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=218"
+        }
+    },
+    "13.0 Productos alimenticios para usos nutricionales especiales": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=223",
+        "13.1 Fórmulas para lactantes y usos médicos especiales": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=224",
+            "13.1.1 Fórmulas para lactantes": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=225"
+            },
+            "13.1.2 Fórmulas de continuación": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=226"
+            },
+            "13.1.3 Fórmulas para usos médicos especiales (lactantes)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=227"
+            }
+        },
+        "13.2 Alimentos complementarios para lactantes y niños pequeños": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=228"
+        },
+        "13.3 Alimentos dietéticos para usos médicos especiales": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=229"
+        },
+        "13.4 Preparados dietéticos para adelgazamiento y control del peso": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=230"
+        },
+        "13.5 Alimentos dietéticos (otros usos)": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=231"
+        },
+        "13.6 Complementos alimenticios": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=232"
+        }
+    },
+    "14.0 Bebidas (excluidos productos lácteos)": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=233",
+        "14.1 Bebidas sin alcohol": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=234",
+            "14.1.1 Aguas": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=235",
+                "14.1.1.1 Aguas minerales y de manantial": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=236"
+                },
+                "14.1.1.2 Aguas de mesa y gaseosas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=237"
+                }
+            },
+            "14.1.2 Zumos de frutas y hortalizas": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=238",
+                "14.1.2.1 Zumos de frutas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=239"
+                },
+                "14.1.2.2 Zumos de hortalizas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=240"
+                },
+                "14.1.2.3 Concentrados de zumo de frutas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=241"
+                },
+                "14.1.2.4 Concentrados de zumo de hortalizas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=242"
+                }
+            },
+            "14.1.3 Néctares": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=243",
+                "14.1.3.1 Néctares de frutas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=244"
+                },
+                "14.1.3.2 Néctares de hortalizas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=245"
+                },
+                "14.1.3.3 Concentrados de néctares de frutas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=246"
+                },
+                "14.1.3.4 Concentrados de néctares de hortalizas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=247"
+                }
+            },
+            "14.1.4 Bebidas aromatizadas a base de agua": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=248",
+                "14.1.4.1 Con gas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=249"
+                },
+                "14.1.4.2 Sin gas": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=250"
+                },
+                "14.1.4.3 Concentrados": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=251"
+                }
+            },
+            "14.1.5 Bebidas calientes (café, té, infusiones)": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=252"
+            }
+        },
+        "14.2 Bebidas alcohólicas": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=253",
+            "14.2.1 Cerveza y malta": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=254"
+            },
+            "14.2.2 Sidra": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=255"
+            },
+            "14.2.3 Vinos de uva": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=256",
+                "14.2.3.1 No espumoso": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=257"
+                },
+                "14.2.3.2 Espumoso y semiespumoso": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=258"
+                },
+                "14.2.3.3 Fortificados y dulces": {
+                    "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=259"
+                }
+            },
+            "14.2.4 Vinos distintos de uva": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=260"
+            },
+            "14.2.5 Aguamiel": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=261"
+            },
+            "14.2.6 Licores destilados": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=262"
+            },
+            "14.2.7 Bebidas alcohólicas aromatizadas": {
+                "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=263"
+            }
+        }
+    },
+    "15.0 Aperitivos listos para el consumo": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=264",
+        "15.1 Aperitivos a base de patatas, cereales, harina o almidón": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=265"
+        },
+        "15.2 Nueces elaboradas": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=266"
+        },
+        "15.3 Aperitivos a base de pescado": {
+            "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=267"
+        }
+    },
+    "16.0 Alimentos preparados": {
+        "_link": "https://www.fao.org/gsfaonline/foods/details.html?id=268"
+    }
+}
