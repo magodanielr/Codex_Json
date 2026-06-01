@@ -1,0 +1,1327 @@
+{
+    "01.0": {
+        "es": "Productos lácteos y productos análogos, excluidos los productos de la categoría de alimentos 02.0",
+        "en": "Dairy products and analogues, excluding products of category 02.0",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=0"
+    },
+    "01.1": {
+        "es": "Leche y productos lácteos líquidos",
+        "en": "Fluid milk and milk products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=2"
+    },
+    "01.1.1": {
+        "es": "Leche líquida (natural / simple)",
+        "en": "Fluid milk (plain)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=3"
+    },
+    "01.1.2": {
+        "es": "Otras leches líquidas (naturales / simples)",
+        "en": "Other fluid milk (plain)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=4"
+    },
+    "01.1.4": {
+        "es": "Bebidas lácteas líquidas aromatizadas",
+        "en": "Flavoured fluid milk drinks",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=6"
+    },
+    "01.2": {
+        "es": "Productos lácteos fermentados y cuajados (naturales / simples)",
+        "en": "Fermented and renneted milk products (plain)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=7"
+    },
+    "01.2.1": {
+        "es": "Leches fermentadas (naturales / simples)",
+        "en": "Fermented milks (plain)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=8"
+    },
+    "01.2.1.1": {
+        "es": "Leches fermentadas (naturales / simples) sin tratamiento térmico después de la fermentación",
+        "en": "Fermented milks (plain), not heat-treated after fermentation",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=9"
+    },
+    "01.2.1.2": {
+        "es": "Leches fermentadas (naturales / simples) tratadas térmicamente después de la fermentación",
+        "en": "Fermented milks (plain), heat-treated after fermentation",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=10"
+    },
+    "01.2.2": {
+        "es": "Cuajada (natural / simple)",
+        "en": "Renneted milk (plain)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=11"
+    },
+    "01.3": {
+        "es": "Leche condensada y productos análogos (naturales)",
+        "en": "Condensed milk and analogues (plain)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=12"
+    },
+    "01.3.1": {
+        "es": "Leche condensada (natural / simple)",
+        "en": "Condensed milk (plain)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=13"
+    },
+    "01.3.2": {
+        "es": "Blanqueadores de bebidas",
+        "en": "Beverage whiteners",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=14"
+    },
+    "01.4": {
+        "es": "Nata (crema) (natural / simple) y productos análogos",
+        "en": "Cream (plain) and the like",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=15"
+    },
+    "01.4.1": {
+        "es": "Nata (crema) pasteurizada (natural / simple)",
+        "en": "Pasteurized cream (plain)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=16"
+    },
+    "01.4.2": {
+        "es": "Natas (cremas) esterilizadas y UHT, natas (cremas) para batir o batidas y natas (cremas) de contenido de grasa reducido (naturales / simples)",
+        "en": "Sterilized and UHT creams, whipping and whipped creams, and reduced fat creams (plain)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=17"
+    },
+    "01.4.3": {
+        "es": "Nata (crema) cuajada (natural / simple)",
+        "en": "Clotted cream (plain)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=18"
+    },
+    "01.4.4": {
+        "es": "Productos análogos a la nata (crema)",
+        "en": "Cream analogues",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=19"
+    },
+    "01.5": {
+        "es": "Leche en polvo y nata (crema) en polvo y productos análogos en polvo (naturales)",
+        "en": "Milk powder and cream powder and powder analogues (plain)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=20"
+    },
+    "01.5.1": {
+        "es": "Leche en polvo y nata (crema) en polvo (naturales)",
+        "en": "Milk powder and cream powder (plain)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=21"
+    },
+    "01.5.2": {
+        "es": "Productos análogos a la leche y la nata (crema) en polvo",
+        "en": "Milk and cream powder analogues",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=22"
+    },
+    "01.6": {
+        "es": "Queso y productos análogos",
+        "en": "Cheese and analogues",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=23"
+    },
+    "01.6.1": {
+        "es": "Queso no madurado",
+        "en": "Unripened cheese",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=24"
+    },
+    "01.6.2": {
+        "es": "Queso madurado",
+        "en": "Ripened cheese",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=25"
+    },
+    "01.6.2.1": {
+        "es": "Queso madurado, incluida la corteza",
+        "en": "Ripened cheese, includes rind",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=26"
+    },
+    "01.6.2.2": {
+        "es": "Corteza de queso madurado",
+        "en": "Rind of ripened cheese",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=27"
+    },
+    "01.6.2.3": {
+        "es": "Queso en polvo (para reconstitución; p. ej., para salsas a base de queso)",
+        "en": "Cheese powder (for reconstitution; e.g. for cheese sauces)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=28"
+    },
+    "01.6.3": {
+        "es": "Queso de suero",
+        "en": "Whey cheese",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=29"
+    },
+    "01.6.4": {
+        "es": "Queso elaborado",
+        "en": "Processed cheese",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=30"
+    },
+    "01.6.4.1": {
+        "es": "Queso elaborado natural",
+        "en": "Plain processed cheese",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=31"
+    },
+    "01.6.4.2": {
+        "es": "Queso elaborado aromatizado, incluido el que contiene fruta, hortalizas, carne, etc.",
+        "en": "Flavoured processed cheese, including containing fruit, vegetables, meat, etc.",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=32"
+    },
+    "01.6.5": {
+        "es": "Productos análogos al queso",
+        "en": "Cheese analogues",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=33"
+    },
+    "01.6.6": {
+        "es": "Queso de proteínas del suero",
+        "en": "Whey protein cheese",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=34"
+    },
+    "01.7": {
+        "es": "Postres lácteos (como pudines, yogur aromatizado o con fruta)",
+        "en": "Dairy-based desserts (e.g. pudding, fruit or flavoured yoghurt)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=35"
+    },
+    "01.8": {
+        "es": "Suero y productos a base de suero, excluidos los quesos de suero",
+        "en": "Whey and whey products, excluding whey cheeses",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=36"
+    },
+    "01.8.1": {
+        "es": "Suero líquido y productos a base de suero líquido, excluidos los quesos de suero",
+        "en": "Liquid whey and whey products, excluding whey cheeses",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=37"
+    },
+    "01.8.2": {
+        "es": "Suero en polvo y productos a base de suero en polvo, excluidos los quesos de suero",
+        "en": "Dried whey and whey products, excluding whey cheeses",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=38"
+    },
+    "02.0": {
+        "es": "Grasas y aceites y emulsiones grasas",
+        "en": "Fats and oils, and fat emulsions",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=39"
+    },
+    "02.1": {
+        "es": "Grasas y aceites prácticamente exentos de agua",
+        "en": "Fats and oils essentially free from water",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=40"
+    },
+    "02.1.1": {
+        "es": "Aceite de mantequilla (manteca), grasa de leche anhidra, “ghee”",
+        "en": "Butter oil, anhydrous milkfat, ghee",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=41"
+    },
+    "02.1.2": {
+        "es": "Grasas y aceites vegetales",
+        "en": "Vegetable oils and fats",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=42"
+    },
+    "02.1.3": {
+        "es": "Manteca de cerdo, sebo, aceite de pescado y otras grasas de origen animal",
+        "en": "Lard, tallow, fish oil, and other animal fats",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=43"
+    },
+    "02.2": {
+        "es": "Emulsiones grasas, principalmente del tipo agua en aceite",
+        "en": "Fat emulsions mainly of type water-in-oil",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=44"
+    },
+    "02.2.1": {
+        "es": "Mantequilla (manteca)",
+        "en": "Butter",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=45"
+    },
+    "02.2.2": {
+        "es": "Grasas para untar, grasas lácteas para untar y mezclas de grasas para untar",
+        "en": "Fat spreads, dairy fat spreads and blended spreads",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=49"
+    },
+    "02.3": {
+        "es": "Emulsiones grasas, principalmente del tipo agua en aceite, incluidos los productos a base de emulsiones grasas mezclados y/o aromatizados",
+        "en": "Fat emulsions mainly of type oil-in-water, including mixed and/or flavoured products based on fat emulsions",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=50"
+    },
+    "02.4": {
+        "es": "Postres a base de grasas, excluidos los postres lácteos de la categoría de alimentos 01.7",
+        "en": "Fat-based desserts excluding dairy-based dessert products of food category 01.7",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=51"
+    },
+    "03.0": {
+        "es": "Hielos comestibles, incluidos los sorbetes",
+        "en": "Edible ices, including sherbet and sorbet",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=52"
+    },
+    "04.0": {
+        "es": "Frutas y hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera), algas marinas y nueces y semillas",
+        "en": "Fruits and vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweeds, and nuts and seeds",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=53"
+    },
+    "04.1": {
+        "es": "Frutas",
+        "en": "Fruit",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=54"
+    },
+    "04.1.1": {
+        "es": "Frutas frescas",
+        "en": "Fresh fruit",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=55"
+    },
+    "04.1.1.1": {
+        "es": "Frutas frescas no tratadas",
+        "en": "Untreated fresh fruit",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=56"
+    },
+    "04.1.1.2": {
+        "es": "Frutas frescas tratadas en la superficie",
+        "en": "Surface-treated fresh fruit",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=57"
+    },
+    "04.1.1.3": {
+        "es": "Frutas frescas peladas y/o cortadas",
+        "en": "Peeled or cut fresh fruit",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=58"
+    },
+    "04.1.2": {
+        "es": "Frutas elaboradas",
+        "en": "Processed fruit",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=59"
+    },
+    "04.1.2.1": {
+        "es": "Frutas congeladas",
+        "en": "Frozen fruit",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=60"
+    },
+    "04.1.2.2": {
+        "es": "Frutas desecadas",
+        "en": "Dried fruit",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=61"
+    },
+    "04.1.2.3": {
+        "es": "Frutas en vinagre, aceite o salmuera",
+        "en": "Fruit in vinegar, oil, or brine",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=62"
+    },
+    "04.1.2.4": {
+        "es": "Frutas en conserva, enlatadas o en frascos (pasteurizadas)",
+        "en": "Canned or bottled (pasteurized) fruit",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=63"
+    },
+    "04.1.2.5": {
+        "es": "Confituras, jaleas, mermeladas",
+        "en": "Jams, jellies, marmelades",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=64"
+    },
+    "04.1.2.6": {
+        "es": "Productos para untar a base de fruta (p. ej. el “chutney”), excluidos los productos de la categoría de alimentos 04.1.2.5",
+        "en": "Fruit-based spreads (e.g. chutney) excluding products of food category 04.1.2.5",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=65"
+    },
+    "04.1.2.7": {
+        "es": "Frutas confitadas",
+        "en": "Candied fruit",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=66"
+    },
+    "04.1.2.8": {
+        "es": "Preparados a base de fruta, incluida la pulpa, los purés, los revestimientos de fruta y la leche de coco",
+        "en": "Fruit preparations, including pulp, purees, fruit toppings and coconut milk",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=67"
+    },
+    "04.1.2.9": {
+        "es": "Postres a base de fruta, incluidos los postres a base de agua con aromas de fruta",
+        "en": "Fruit-based desserts, including fruit-flavoured water-based desserts",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=68"
+    },
+    "04.1.2.10": {
+        "es": "Productos de fruta fermentada",
+        "en": "Fermented fruit products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=69"
+    },
+    "04.1.2.11": {
+        "es": "Rellenos de fruta para pastelería",
+        "en": "Fruit fillings for pastries",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=70"
+    },
+    "04.1.2.12": {
+        "es": "Frutas cocidas o fritas",
+        "en": "Cooked fruit",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=71"
+    },
+    "04.2": {
+        "es": "Hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera), algas marinas y nueces y semillas",
+        "en": "Vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweeds, and nuts and seeds",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=72"
+    },
+    "04.2.1": {
+        "es": "Hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera), algas marinas y nueces y semillas frescas",
+        "en": "Fresh vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweeds, and nuts and seeds",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=73"
+    },
+    "04.2.1.1": {
+        "es": "Hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas [(incluida la soja)] y áloe vera), algas marinas y nueces y semillas frescas no tratadas",
+        "en": "Untreated fresh vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes [(including soybeans)], and aloe vera), seaweeds, and nuts and seeds",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=74"
+    },
+    "04.2.1.2": {
+        "es": "Hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera), algas marinas y nueces y semillas frescas tratadas en la superficie",
+        "en": "Surface-treated fresh vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweeds, and nuts and seeds",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=75"
+    },
+    "04.2.1.3": {
+        "es": "Hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera), algas marinas y nueces y semillas frescas peladas, cortadas o desmenuzadas",
+        "en": "Peeled, cut or shredded fresh vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweeds, and nuts and seeds",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=76"
+    },
+    "04.2.2": {
+        "es": "Hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera), algas marinas y nueces y semillas elaboradas",
+        "en": "Processed vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweeds, and nuts and seeds",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=77"
+    },
+    "04.2.2.1": {
+        "es": "Hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera), algas marinas y nueces y semillas congeladas",
+        "en": "Frozen vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweeds, and nuts and seeds",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=78"
+    },
+    "04.2.2.2": {
+        "es": "Hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera), algas marinas y nueces y semillas desecadas",
+        "en": "Dried vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweeds, and nuts and seeds",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=79"
+    },
+    "04.2.2.3": {
+        "es": "Hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera) y algas marinas en vinagre, aceite, salmuera o salsa de soja",
+        "en": "Vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), and seaweeds in vinegar, oil, brine, or soybean sauce",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=80"
+    },
+    "04.2.2.4": {
+        "es": "Hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera) y algas marinas en conserva, en latas o frascos (pasteurizadas) o en bolsas de esterilización",
+        "en": "Canned or bottled (pasteurized) or retort pouch vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), and seaweeds",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=81"
+    },
+    "04.2.2.5": {
+        "es": "Purés y preparados para untar elaborados con hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera), algas marinas y nueces y semillas (p. ej., la mantequilla de maní (cacahuete))",
+        "en": "Vegetable (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweed, and nut and seed purees and spreads (e.g., peanut butter)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=82"
+    },
+    "04.2.2.6": {
+        "es": "Pulpas y preparados de hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera), algas marinas y nueces y semillas (como los postres y las salsas a base de hortalizas y hortalizas confitadas) distintos de los indicados en la categoría de alimentos 04.2.2.5",
+        "en": "Vegetable (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweed, and nut and seed pulps and preparations (e.g. vegetable desserts and sauces, candied vegetables) other than food category 04.2.2.5",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=83"
+    },
+    "04.2.2.7": {
+        "es": "Productos a base de hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera) y algas marinas fermentadas, excluidos los productos fermentados de soja de las categorías 06.8.6, 06.8.7, 12.9.1, 12.9.2.1 y 12.9.2.3",
+        "en": "Fermented vegetable (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera) and seaweed products, excluding fermented soybean products of food categories 06.8.6, 06.8.7, 12.9.1, 12.9.2.1 and 12.9.2.3",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=84"
+    },
+    "04.2.2.8": {
+        "es": "Hortalizas (incluidos hongos y setas, raíces y tubérculos, legumbres y leguminosas y áloe vera) y algas marinas cocidas o fritas",
+        "en": "Cooked or fried vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), and seaweeds",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=85"
+    },
+    "05.0": {
+        "es": "Confitería",
+        "en": "Confectionery",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=86"
+    },
+    "05.1": {
+        "es": "Productos de cacao y chocolate, incluidos los productos de imitación y los sucedáneos del chocolate",
+        "en": "Cocoa products and chocolate products including imitations and chocolate substitutes",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=87"
+    },
+    "05.1.1": {
+        "es": "Mezclas de cacao (en polvo) y cacao en pasta/torta de cacao",
+        "en": "Cocoa mixes (powders) and cocoa mass/cake",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=88"
+    },
+    "05.1.2": {
+        "es": "Mezclas de cacao (jarabes)",
+        "en": "Cocoa mixes (syrups)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=89"
+    },
+    "05.1.3": {
+        "es": "Productos para untar a base de cacao, incluidos los rellenos a base de cacao",
+        "en": "Cocoa-based spreads, including fillings",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=90"
+    },
+    "05.1.4": {
+        "es": "Productos de cacao y chocolate",
+        "en": "Cocoa and chocolate products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=91"
+    },
+    "05.1.5": {
+        "es": "Productos de imitación y sucedáneos del chocolate",
+        "en": "Imitation chocolate, chocolate substitute products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=92"
+    },
+    "05.2": {
+        "es": "Dulces, incluidos los caramelos duros y blandos, los turrones, etc. distintos de los indicados en las categorías de alimentos 05.1, 05.3 y 05.4",
+        "en": "Confectionery including hard and soft candy, nougats, etc. other than food categories 05.1, 05.3 and 05.4",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=93"
+    },
+    "05.2.1": {
+        "es": "Caramelos duros",
+        "en": "Hard candy",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=94"
+    },
+    "05.2.2": {
+        "es": "Caramelos blandos",
+        "en": "Soft candy",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=95"
+    },
+    "05.2.3": {
+        "es": "Turrón y mazapán",
+        "en": "Nougats and marzipans",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=96"
+    },
+    "05.3": {
+        "es": "Goma de mascar",
+        "en": "Chewing gum",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=97"
+    },
+    "05.4": {
+        "es": "Decoraciones (p. ej. para productos de pastelería fina), revestimientos (que no sean de fruta) y salsas dulces",
+        "en": "Decorations (e.g. for fine bakery wares), toppings (non-fruit) and sweet sauces",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=98"
+    },
+    "06.0": {
+        "es": "Cereales y productos a base de cereales, derivados de granos de cereales, de raíces y tubérculos, legumbres, y leguminosas y médula o corazón blando de palmera, excluidos los productos de panadería de la categoría de alimentos 07.0",
+        "en": "Cereals and cereal products, derived from cereal grains, from roots and tubers, pulses, legumes and pith or soft core of palm tree, excluding bakery wares of food category 07.0",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=99"
+    },
+    "06.1": {
+        "es": "Granos enteros, triturados o en copos, incluido el arroz",
+        "en": "Whole, broken, or flaked grain, including rice",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=100"
+    },
+    "06.2": {
+        "es": "Harinas y almidones (incluida la soja en polvo)",
+        "en": "Flours and starches (including soybean powder)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=101"
+    },
+    "06.2.1": {
+        "es": "Harinas",
+        "en": "Flours",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=102"
+    },
+    "06.2.2": {
+        "es": "Almidones",
+        "en": "Starches",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=103"
+    },
+    "06.3": {
+        "es": "Cereales para el desayuno, incluidos los copos de avena",
+        "en": "Breakfast cereals, including rolled oats",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=104"
+    },
+    "06.4": {
+        "es": "Pastas y fideos y productos análogos (p. ej. fécula de arroz en hojas, “vermicelli” de arroz, pastas y fideos de soja)",
+        "en": "Pastas and noodles and like products (e.g., rice paper, rice vermicelli, soybean pastas and noodles)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=105"
+    },
+    "06.4.1": {
+        "es": "Pastas y fideos frescos y productos análogos",
+        "en": "Fresh pastas and noodles and like products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=106"
+    },
+    "06.4.2": {
+        "es": "Pastas y fideos deshidratados y productos análogos",
+        "en": "Dried pastas and noodles and like products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=107"
+    },
+    "06.4.3": {
+        "es": "Pastas y fideos precocidos y productos análogos",
+        "en": "Pre-cooked pastas and noodles and like products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=108"
+    },
+    "06.5": {
+        "es": "Postres a base de cereales y almidón (p. ej. pudines de arroz, pudines de mandioca)",
+        "en": "Cereal and starch based desserts (e.g. rice pudding, tapioca pudding)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=109"
+    },
+    "06.6": {
+        "es": "Mezclas batidas para rebozar (p. ej. para empanizar o rebozar pescado o carne de aves de corral)",
+        "en": "Batters (e.g. for breading or batters for fish or poultry)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=110"
+    },
+    "06.7": {
+        "es": "Productos a base de arroz precocidos o elaborados, incluidas las tortas de arroz (sólo del tipo oriental)",
+        "en": "Pre-cooked or processed rice products, including rice cakes (Oriental type only)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=111"
+    },
+    "06.8": {
+        "es": "Productos a base de soja (excluidos los aderezos y condimentos a base de soja de la categoría de alimentos 12.9)",
+        "en": "Soybean products (excluding soybean-based seasonings and condiments of food category 12.9)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=112"
+    },
+    "06.8.1": {
+        "es": "Bebidas a base de soja",
+        "en": "Soybean-based beverages",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=269"
+    },
+    "06.8.2": {
+        "es": "Película de bebida a base de soja",
+        "en": "Soybean-based beverage film",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=270"
+    },
+    "06.8.3": {
+        "es": "Cuajada de soja (tofu)",
+        "en": "Soybean curd (tofu)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=271"
+    },
+    "06.8.4": {
+        "es": "Cuajada de soja semideshidratada",
+        "en": "Semi-dehydrated soybean curd",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=272"
+    },
+    "06.8.4.1": {
+        "es": "Cuajada de soja semideshidratada dura cocida en salsa espesa",
+        "en": "Thick gravy-stewed semi-dehydrated soybean curd",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=273"
+    },
+    "06.8.4.2": {
+        "es": "Cuajada de soja semideshidratada frita",
+        "en": "Deep fried semi-dehydrated soybean curd",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=274"
+    },
+    "06.8.4.3": {
+        "es": "Cuajada de soja semideshidratada distinta de la incluida en las categorías de alimentos 06.8.4.1 y 06.8.4.2",
+        "en": "Semi-dehydrated soybean curd, other than food categories 06.8.4.1 and 06.8.4.2",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=275"
+    },
+    "06.8.5": {
+        "es": "Cuajada de soja deshidratada (kori tofu)",
+        "en": "Dehydrated soybean curd (kori tofu)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=276"
+    },
+    "06.8.6": {
+        "es": "Soja fermentada (por ej. natto, tempe)",
+        "en": "Fermented soybeans (e.g. natto, tempe)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=277"
+    },
+    "06.8.7": {
+        "es": "Cuajada de soja fermentada",
+        "en": "Fermented soybean curd",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=278"
+    },
+    "06.8.8": {
+        "es": "Otros productos a base de proteína de soja",
+        "en": "Other soybean protein products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=279"
+    },
+    "07.0": {
+        "es": "Productos de panadería",
+        "en": "Bakery wares",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=113"
+    },
+    "07.1": {
+        "es": "Pan y productos de panadería ordinaria",
+        "en": "Bread and ordinary bakery wares",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=114"
+    },
+    "07.1.1": {
+        "es": "Panes y panecillos",
+        "en": "Breads and rolls",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=115"
+    },
+    "07.1.1.1": {
+        "es": "Panes leudados con levadura y panes especiales",
+        "en": "Yeast-leavened breads and specialty breads",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=116"
+    },
+    "07.1.1.2": {
+        "es": "Panes leudados con bicarbonato",
+        "en": "Soda breads",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=117"
+    },
+    "07.1.2": {
+        "es": "“Crackers” (galletas saladas o de agua), excluidos los “crackers” dulces",
+        "en": "Crackers, excluding sweet crackers",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=118"
+    },
+    "07.1.3": {
+        "es": "Otros productos de panadería ordinaria (p. ej. panecillos tipo rosca “bagels”, pan tipo mediterráneo “pita”, panecillos ingleses chatos “muffins”, etc.)",
+        "en": "Other ordinary bakery products (e.g. bagels, pita, English muffins)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=119"
+    },
+    "07.1.4": {
+        "es": "Productos similares al pan, incluidos los rellenos a base de pan y el pan rallado",
+        "en": "Bread-type products, including bread stuffing and bread crumbs",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=120"
+    },
+    "07.1.5": {
+        "es": "Panes y bollos dulces al vapor",
+        "en": "Steamed breads and buns",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=121"
+    },
+    "07.1.6": {
+        "es": "Mezclas para pan y productos de panadería ordinaria",
+        "en": "Mixes for bread and ordinary bakery wares",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=122"
+    },
+    "07.2": {
+        "es": "Productos de panadería fina (dulces, salados, aromatizados) y mezclas",
+        "en": "Fine bakery wares (sweet, salty, savoury) and mixes",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=123"
+    },
+    "07.2.1": {
+        "es": "Tortas, galletas y pasteles (p. ej., rellenos de fruta o crema)",
+        "en": "Cakes, cookies and pies (e.g. fruit-filled or custard types)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=124"
+    },
+    "07.2.2": {
+        "es": "Otros productos de panadería fina (p. ej. roscas fritas “donuts” (donas), panecillos dulces, “scones” y panecillos chatos “muffins”)",
+        "en": "Other fine bakery products (e.g. doughnuts, sweet rolls, scones, and muffins)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=125"
+    },
+    "07.2.3": {
+        "es": "Mezclas para pastelería fina (p. ej. tortas, tortitas o panqueques)",
+        "en": "Mixes for fine bakery wares (e.g. cakes, pancakes)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=126"
+    },
+    "08.0": {
+        "es": "Carne y productos cárnicos, incluidos los de aves de corral y caza",
+        "en": "Meat and meat products, including poultry and game",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=127"
+    },
+    "08.1": {
+        "es": "Carne fresca, incluida la de aves de corral y caza",
+        "en": "Fresh meat, poultry, and game",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=128"
+    },
+    "08.1.1": {
+        "es": "Carne fresca, incluida la de aves de corral y caza, en piezas enteras o en cortes",
+        "en": "Fresh meat, poultry, and game, whole pieces or cuts",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=129"
+    },
+    "08.1.2": {
+        "es": "Carne fresca picada, incluida la de aves de corral y caza",
+        "en": "Fresh meat, poultry, and game, comminuted",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=130"
+    },
+    "08.2": {
+        "es": "Productos cárnicos, de aves de corral y caza elaborados, en piezas enteras o en cortes",
+        "en": "Processed meat, poultry, and game products in whole pieces or cuts",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=131"
+    },
+    "08.2.1": {
+        "es": "Productos cárnicos, de aves de corral y caza elaborados sin tratamiento térmico, en piezas enteras o en cortes",
+        "en": "Non-heat treated processed meat, poultry, and game products in whole pieces or cuts",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=132"
+    },
+    "08.2.1.1": {
+        "es": "Productos cárnicos, de aves de corral y caza elaborados, curados (incluidos los salados) y sin tratamiento térmico, en piezas enteras o en cortes",
+        "en": "Cured (including salted) non-heat treated processed meat, poultry, and game products in whole pieces or cuts",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=133"
+    },
+    "08.2.1.2": {
+        "es": "Productos cárnicos, de aves de corral y caza elaborados, curados (incluidos los salados), desecados y sin tratamiento térmico, en piezas enteras o en cortes",
+        "en": "Cured (including salted) and dried non-heat treated processed meat, poultry, and game products in whole pieces or cuts",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=134"
+    },
+    "08.2.1.3": {
+        "es": "Productos cárnicos, de aves de corral y caza elaborados, fermentados y sin tratamiento térmico, en piezas enteras o en cortes",
+        "en": "Fermented non-heat treated processed meat, poultry, and game products in whole pieces or cuts",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=135"
+    },
+    "08.2.2": {
+        "es": "Productos cárnicos, de aves de corral y caza elaborados, tratados térmicamente, en piezas enteras o en cortes",
+        "en": "Heat-treated processed meat, poultry, and game products in whole pieces or cuts",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=136"
+    },
+    "08.2.3": {
+        "es": "Productos cárnicos, de aves de corral y caza elaborados, congelados, en piezas enteras o en cortes",
+        "en": "Frozen processed meat, poultry, and game products in whole pieces or cuts",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=137"
+    },
+    "08.3": {
+        "es": "Productos cárnicos, de aves de corral y caza picados y elaborados",
+        "en": "Processed comminuted meat, poultry, and game products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=138"
+    },
+    "08.3.1": {
+        "es": "Productos cárnicos, de aves de corral y caza picados y elaborados sin tratamiento térmico",
+        "en": "Non-heat treated processed comminuted meat, poultry, and game products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=139"
+    },
+    "08.3.1.1": {
+        "es": "Productos cárnicos, de aves de corral y caza picados y elaborados, curados (incluidos los salados) y sin tratamiento térmico",
+        "en": "Cured (including salted) non-heat treated processed comminuted meat, poultry, and game products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=140"
+    },
+    "08.3.1.2": {
+        "es": "Productos cárnicos, de aves de corral y caza picados y elaborados, curados (incluidos los salados), desecados y sin tratamiento térmico",
+        "en": "Cured (including salted) and dried non-heat treated processed comminuted meat, poultry, and game products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=141"
+    },
+    "08.3.1.3": {
+        "es": "Productos cárnicos, de aves de corral y caza picados, elaborados, fermentados y sin tratamiento térmico",
+        "en": "Fermented non-heat treated processed comminuted meat, poultry, and game products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=142"
+    },
+    "08.3.2": {
+        "es": "Productos cárnicos, de aves de corral y caza picados, elaborados y tratados térmicamente",
+        "en": "Heat-treated processed comminuted meat, poultry, and game products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=143"
+    },
+    "08.3.3": {
+        "es": "Productos cárnicos, de aves de corral y caza picados, elaborados y congelados",
+        "en": "Frozen processed comminuted meat, poultry, and game products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=144"
+    },
+    "08.4": {
+        "es": "Envolturas o tripas comestibles (p. ej. para embutidos)",
+        "en": "Edible casings (e.g. sausage casings)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=145"
+    },
+    "09.0": {
+        "es": "Pescado y productos pesqueros, incluidos los moluscos, crustáceos y equinodermos",
+        "en": "Fish and fish products, including mollusks, crustaceans, and echinoderms",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=146"
+    },
+    "09.1": {
+        "es": "Pescado y productos pesqueros frescos, incluidos los moluscos, crustáceos y equinodermos",
+        "en": "Fresh fish and fish products, including mollusks, crustaceans, and echinoderms",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=147"
+    },
+    "09.1.1": {
+        "es": "Pescado fresco",
+        "en": "Fresh fish",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=148"
+    },
+    "09.1.2": {
+        "es": "Moluscos, crustáceos y equinodermos frescos",
+        "en": "Fresh mollusks, crustaceans, and echinoderms",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=149"
+    },
+    "09.2": {
+        "es": "Pescado y productos pesqueros elaborados, incluidos los moluscos, crustáceos y equinodermos",
+        "en": "Processed fish and fish products, including mollusks, crustaceans, and echinoderms",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=150"
+    },
+    "09.2.1": {
+        "es": "Pescado, filetes de pescado y productos pesqueros congelados, incluidos los moluscos, crustáceos y equinodermos",
+        "en": "Frozen fish, fish fillets, and fish products, including mollusks, crustaceans, and echinoderms",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=151"
+    },
+    "09.2.2": {
+        "es": "Pescado, filetes de pescado y productos pesqueros rebozados congelados, incluidos los moluscos, crustáceos y equinodermos",
+        "en": "Frozen battered fish, fish fillets, and fish products, including mollusks, crustaceans, and echinoderms",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=152"
+    },
+    "09.2.3": {
+        "es": "Productos pesqueros picados, mezclados y congelados, incluidos los moluscos, crustáceos y equinodermos",
+        "en": "Frozen minced and creamed fish products, including mollusks, crustaceans, and echinoderms",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=153"
+    },
+    "09.2.4": {
+        "es": "Pescado y productos pesqueros cocidos y/o fritos, incluidos los moluscos, crustáceos y equinodermos",
+        "en": "Cooked and/or fried fish and fish products, including mollusks, crustaceans, and echinoderms",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=154"
+    },
+    "09.2.4.1": {
+        "es": "Pescado y productos pesqueros cocidos",
+        "en": "Cooked fish and fish products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=155"
+    },
+    "09.2.4.2": {
+        "es": "Moluscos, crustáceos y equinodermos cocidos",
+        "en": "Cooked mollusks, crustaceans, and echinoderms",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=156"
+    },
+    "09.2.4.3": {
+        "es": "Pescado y productos pesqueros fritos, incluidos los moluscos, crustáceos y equinodermos",
+        "en": "Fried fish and fish products, including mollusks, crustaceans, and echinoderms",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=157"
+    },
+    "09.2.5": {
+        "es": "Pescado y productos pesqueros ahumados, desecados, fermentados y/o salados, incluidos los moluscos, crustáceos y equinodermos",
+        "en": "Smoked, dried, fermented, and/or salted fish and fish products, including mollusks, crustaceans, and echinoderms",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=158"
+    },
+    "09.3": {
+        "es": "Pescado y productos pesqueros semiconservados, incluidos los moluscos, crustáceos y equinodermos",
+        "en": "Semi-preserved fish and fish products, including mollusks, crustaceans, and echinoderms",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=159"
+    },
+    "09.3.1": {
+        "es": "Pescado y productos pesqueros marinados y/o en gelatina, incluidos los moluscos, crustáceos y equinodermos",
+        "en": "Fish and fish products, including mollusks, crustaceans, and echinoderms, marinated and/or in jelly",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=160"
+    },
+    "09.3.2": {
+        "es": "Pescado y productos pesqueros escabechados y/o en salmuera, incluidos los moluscos, crustáceos y equinodermos",
+        "en": "Fish and fish products, including mollusks, crustaceans, and echinoderms, pickled and/or in brine",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=161"
+    },
+    "09.3.3": {
+        "es": "Sucedáneos de salmón, caviar y otros productos pesqueros a base de huevas",
+        "en": "Salmon substitutes, caviar, and other fish roe products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=162"
+    },
+    "09.3.4": {
+        "es": "Pescado y productos pesqueros semiconservados, incluidos los moluscos, crustáceos y equinodermos (p. ej., la pasta de pescado), excluidos los productos indicados en las categorías de alimentos 09.3.1 a 09.3.3",
+        "en": "Semi-preserved fish and fish products, including mollusks, crustaceans, and echinoderms (e.g. fish paste), excluding products of food categories 09.3.1 - 09.3.3",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=163"
+    },
+    "09.4": {
+        "es": "Pescado y productos pesqueros (incluidos los moluscos, crustáceos y equinodermos) en conserva, con inclusión de los enlatados y fermentados",
+        "en": "Fully preserved, including canned or fermented fish and fish products, including mollusks, crustaceans, and echinoderms",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=164"
+    },
+    "10.0": {
+        "es": "Huevos y productos a base de huevo",
+        "en": "Eggs and egg products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=165"
+    },
+    "10.1": {
+        "es": "Huevos frescos",
+        "en": "Fresh eggs",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=166"
+    },
+    "10.2": {
+        "es": "Productos a base de huevo",
+        "en": "Egg products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=167"
+    },
+    "10.2.1": {
+        "es": "Productos líquidos a base de huevo",
+        "en": "Liquid egg products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=168"
+    },
+    "10.2.2": {
+        "es": "Productos congelados a base de huevo",
+        "en": "Frozen egg products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=169"
+    },
+    "10.2.3": {
+        "es": "Productos a base de huevo en polvo y/o cuajados por calor",
+        "en": "Dried and/or heat coagulated egg products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=170"
+    },
+    "10.3": {
+        "es": "Huevos en conserva, incluidos los huevos en álcali, salados y envasados",
+        "en": "Preserved eggs, including alkaline, salted, and canned eggs",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=171"
+    },
+    "10.4": {
+        "es": "Postres a base de huevo (p. ej. flan)",
+        "en": "Egg-based desserts (e.g. custard)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=172"
+    },
+    "11.0": {
+        "es": "Edulcorantes, incluida la miel",
+        "en": "Sweeteners, including honey",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=173"
+    },
+    "11.1": {
+        "es": "Azúcares refinados y en bruto",
+        "en": "Refined and raw sugars",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=174"
+    },
+    "11.1.1": {
+        "es": "Azúcar blanco, dextrosa anhidra, dextrosa monohidrato y fructosa",
+        "en": "White sugar, dextrose anhydrous, dextrose monohydrate, fructose",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=175"
+    },
+    "11.1.2": {
+        "es": "Azúcar en polvo y dextrosa en polvo",
+        "en": "Powdered sugar, powdered dextrose",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=176"
+    },
+    "11.1.3": {
+        "es": "Azúcar blanco blando, azúcar moreno blando, jarabe de glucosa, jarabe de glucosa deshidratado y azúcar de caña sin refinar",
+        "en": "Soft white sugar, soft brown sugar, glucose syrup, dried glucose syrup, raw cane sugar",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=177"
+    },
+    "11.1.3.1": {
+        "es": "Jarabe de glucosa deshidratado utilizado para la elaboración de golosinas",
+        "en": "Dried glucose syrup used to manufacture sugar confectionery",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=178"
+    },
+    "11.1.3.2": {
+        "es": "Jarabe de glucosa utilizado para la elaboración de golosinas",
+        "en": "Glucose syrup used to manufacture sugar confectionery",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=179"
+    },
+    "11.1.4": {
+        "es": "Lactosa",
+        "en": "Lactose",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=180"
+    },
+    "11.1.5": {
+        "es": "Azúcar blanco de plantación o refinería",
+        "en": "Plantation or mill white sugar",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=181"
+    },
+    "11.2": {
+        "es": "Azúcar moreno, excluidos los productos de la categoría de alimentos 11.1.3",
+        "en": "Brown sugar excluding products of food category 11.1.3",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=182"
+    },
+    "11.3": {
+        "es": "Soluciones azucaradas y jarabes, también azúcares (parcialmente) invertidos, incluida la melaza, excluidos los productos de la categoría de alimentos 11.1.3",
+        "en": "Sugar solutions and syrups, also (partially) inverted, including treacle and molasses, excluding products of food category 11.1.3",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=183"
+    },
+    "11.4": {
+        "es": "Otros azúcares y jarabes (p. ej. xilosa, jarabe de arce y aderezos de azúcar)",
+        "en": "Other sugars and syrups (e.g. xylose, maple syrup, sugar toppings)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=184"
+    },
+    "11.5": {
+        "es": "Miel",
+        "en": "Honey",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=185"
+    },
+    "11.6": {
+        "es": "Edulcorantes de mesa, incluidos los que contienen edulcorantes de gran intensidad",
+        "en": "Table-top sweeteners, including those containing high-intensity sweeteners",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=186"
+    },
+    "12.0": {
+        "es": "Sales, especias, sopas, salsas, ensaladas, productos proteínicos",
+        "en": "Salts, spices, soups, sauces, salads, protein products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=187"
+    },
+    "12.1": {
+        "es": "Sal y sucedáneos de la sal",
+        "en": "Salt and salt substitutes",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=188"
+    },
+    "12.1.1": {
+        "es": "Sal",
+        "en": "Salt",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=189"
+    },
+    "12.1.2": {
+        "es": "Sucedáneos de la sal",
+        "en": "Salt Substitutes",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=190"
+    },
+    "12.2": {
+        "es": "Hierbas aromáticas, especias, aderezos y condimentos (p. ej. el aderezo para fideos instantáneos)",
+        "en": "Herbs, spices, seasonings and condiments (e.g. seasoning for instant noodles)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=191"
+    },
+    "12.2.1": {
+        "es": "Hierbas aromáticas y especias",
+        "en": "Herbs and spices",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=192"
+    },
+    "12.2.2": {
+        "es": "Aderezos y condimentos",
+        "en": "Seasonings and condiments",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=193"
+    },
+    "12.3": {
+        "es": "Vinagres",
+        "en": "Vinegars",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=194"
+    },
+    "12.4": {
+        "es": "Mostazas",
+        "en": "Mustards",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=195"
+    },
+    "12.5": {
+        "es": "Sopas y caldos",
+        "en": "Soups and broths",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=196"
+    },
+    "12.5.1": {
+        "es": "Sopas y caldos listos para el consumo, incluidos los envasados, embotellados y congelados",
+        "en": "Ready-to-eat soups and broths, including canned, bottled, and frozen",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=197"
+    },
+    "12.5.2": {
+        "es": "Mezclas para sopas y caldos",
+        "en": "Mixes for soups and broths",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=198"
+    },
+    "12.6": {
+        "es": "Salsas y productos análogos",
+        "en": "Sauces and like products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=199"
+    },
+    "12.6.1": {
+        "es": "Salsas emulsionadas y salsas para mojar (p.ej. mayonesa, aderezos para ensaladas, salsa para mojar de cebollas)",
+        "en": "Emulsified sauces and dips (e.g. mayonnaise, salad dressing, onion dip)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=200"
+    },
+    "12.6.2": {
+        "es": "Salsas no emulsionadas (p. ej. salsa de tomate “ketchup”, salsas a base de queso, salsas a base de nata (crema) y salsas hechas con jugo de carne asada “gravy”)",
+        "en": "Non-emulsified sauces (e.g. ketchup, cheese sauce, cream sauce, brown gravy)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=201"
+    },
+    "12.6.3": {
+        "es": "Mezclas para salsas y “gravies”",
+        "en": "Mixes for sauces and gravies",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=202"
+    },
+    "12.6.4": {
+        "es": "Salsas ligeras (p. ej. salsa de pescado)",
+        "en": "Clear sauces (e.g. fish sauce)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=203"
+    },
+    "12.7": {
+        "es": "Ensaladas (p. ej., la ensalada de macarrones, la ensalada de patatas (papas)) y productos para untar en emparedados, excluidos los productos para untar a base de cacao y nueces de las categorías de alimentos 04.2.2.5 y 05.1.3",
+        "en": "Salads (e.g. macaroni salad, potato salad) and sandwich spreads excluding cocoa- and nut-based spreads of food categories 04.2.2.5 and 05.1.3",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=204"
+    },
+    "12.8": {
+        "es": "Levadura y productos análogos",
+        "en": "Yeast and like products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=205"
+    },
+    "12.9": {
+        "es": "Aderezos y condimentos a base de soja",
+        "en": "Soybean-based seasonings and condiments",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=206"
+    },
+    "12.9.1": {
+        "es": "Pasta de soja fermentada (por ej. miso)",
+        "en": "Fermented soybean paste (e.g., miso)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=207"
+    },
+    "12.9.2": {
+        "es": "Salsa de soja",
+        "en": "Soybean sauce",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=211"
+    },
+    "12.9.2.1": {
+        "es": "Salsa de soja fermentada",
+        "en": "Fermented soybean sauce",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=212"
+    },
+    "12.9.2.2": {
+        "es": "Salsa de soja no fermentada",
+        "en": "Non-fermented soybean sauce",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=213"
+    },
+    "12.9.2.3": {
+        "es": "Otras salsas de soja",
+        "en": "Other soybean sauces",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=214"
+    },
+    "12.10": {
+        "es": "Productos proteínicos distintos a los de soja",
+        "en": "Protein products other than from soybeans",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=218"
+    },
+    "13.0": {
+        "es": "Productos alimenticios para usos nutricionales especiales",
+        "en": "Foodstuffs intended for particular nutritional uses",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=223"
+    },
+    "13.1": {
+        "es": "Fórmulas (preparados) para lactantes, fórmulas de continuación y fórmulas para usos médicos especiales destinados a los lactantes",
+        "en": "Infant formulae, follow-up formulae, and formulae for special medical purposes for infants",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=224"
+    },
+    "13.1.1": {
+        "es": "Fórmulas (preparados) para lactantes",
+        "en": "Infant formulae",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=225"
+    },
+    "13.1.2": {
+        "es": "Fórmulas (preparados) de continuación",
+        "en": "Follow-up formulae",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=226"
+    },
+    "13.1.3": {
+        "es": "Fórmulas (preparados) para usos médicos especiales destinados a los lactantes",
+        "en": "Formulae for special medical purposes for infants",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=227"
+    },
+    "13.2": {
+        "es": "Alimentos complementarios para lactantes y niños pequeños",
+        "en": "Complementary foods for infants and young children",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=228"
+    },
+    "13.3": {
+        "es": "Alimentos dietéticos para usos médicos especiales (excluidos los productos de la categoría de alimentos 13.1)",
+        "en": "Dietetic foods intended for special medical purposes (excluding products of food category 13.1)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=229"
+    },
+    "13.4": {
+        "es": "Preparados dietéticos para adelgazamiento y control del peso",
+        "en": "Dietetic formulae for slimming purposes and weight reduction",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=230"
+    },
+    "13.5": {
+        "es": "Alimentos dietéticos (p. ej. los complementos alimenticios para usos dietéticos), excluidos los indicados en las categorías de alimentos 13.1 a 13.4 y 13.6",
+        "en": "Dietetic foods (e.g. supplementary foods for dietary use) excluding products of food categories 13.1 - 13.4 and 13.6",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=231"
+    },
+    "13.6": {
+        "es": "Complementos alimenticios",
+        "en": "Food supplements",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=232"
+    },
+    "14.0": {
+        "es": "Bebidas, excluidos los productos lácteos",
+        "en": "Beverages, excluding dairy products",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=233"
+    },
+    "14.1": {
+        "es": "Bebidas sin alcohol",
+        "en": "Non-alcoholic (\"soft\") beverages",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=234"
+    },
+    "14.1.1": {
+        "es": "Aguas",
+        "en": "Waters",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=235"
+    },
+    "14.1.1.1": {
+        "es": "Aguas minerales naturales y aguas de manantial",
+        "en": "Natural mineral waters and source waters",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=236"
+    },
+    "14.1.1.2": {
+        "es": "Aguas de mesa y gaseosas",
+        "en": "Table waters and soda waters",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=237"
+    },
+    "14.1.2": {
+        "es": "Zumos (jugos) de frutas y hortalizas",
+        "en": "Fruit and vegetable juices",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=238"
+    },
+    "14.1.2.1": {
+        "es": "Zumos (jugos) de frutas",
+        "en": "Fruit juice",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=239"
+    },
+    "14.1.2.2": {
+        "es": "Zumos (jugos) de hortalizas",
+        "en": "Vegetable juice",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=240"
+    },
+    "14.1.2.3": {
+        "es": "Concentrados para zumos (jugos) de frutas",
+        "en": "Concentrates for fruit juice",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=241"
+    },
+    "14.1.2.4": {
+        "es": "Concentrados para zumos (jugos) de hortalizas",
+        "en": "Concentrates for vegetable juice",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=242"
+    },
+    "14.1.3": {
+        "es": "Néctares de frutas y hortalizas",
+        "en": "Fruit and vegetable nectars",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=243"
+    },
+    "14.1.3.1": {
+        "es": "Néctares de frutas",
+        "en": "Fruit nectar",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=244"
+    },
+    "14.1.3.2": {
+        "es": "Néctares de hortalizas",
+        "en": "Vegetable nectar",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=245"
+    },
+    "14.1.3.3": {
+        "es": "Concentrados para néctares de frutas",
+        "en": "Concentrates for fruit nectar",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=246"
+    },
+    "14.1.3.4": {
+        "es": "Concentrados para néctares de hortalizas",
+        "en": "Concentrates for vegetable nectar",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=247"
+    },
+    "14.1.4": {
+        "es": "Bebidas a base de agua aromatizadas, incluidas las bebidas para deportistas, bebidas energéticas o bebidas electrolíticas y bebidas con partículas añadidas",
+        "en": "Water-based flavoured drinks, including \"sport,\" \"energy,\" or \"electrolyte\" drinks and particulated drinks",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=248"
+    },
+    "14.1.4.1": {
+        "es": "Bebidas a base de agua aromatizadas con gas",
+        "en": "Carbonated water-based flavoured drinks",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=249"
+    },
+    "14.1.4.2": {
+        "es": "Bebidas a base de agua aromatizadas sin gas, incluidos los ponches de fruta y las limonadas y bebidas similares",
+        "en": "Non-carbonated water-based flavoured drinks, including punches and ades",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=250"
+    },
+    "14.1.4.3": {
+        "es": "Concentrados (líquidos o sólidos) para bebidas a base de agua aromatizadas",
+        "en": "Concentrates (liquid or solid) for water-based flavoured drinks",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=251"
+    },
+    "14.1.5": {
+        "es": "Café, sucedáneos del café, té, infusiones de hierbas y otras bebidas calientes a base de cereales y granos, excluido el cacao",
+        "en": "Coffee, coffee substitutes, tea, herbal infusions, and other hot cereal and grain beverages, excluding cocoa",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=252"
+    },
+    "14.2": {
+        "es": "Bebidas alcohólicas, incluidas las bebidas análogas sin alcohol y con bajo contenido de alcohol",
+        "en": "Alcoholic beverages, including alcohol-free and low-alcoholic counterparts",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=253"
+    },
+    "14.2.1": {
+        "es": "Cerveza y bebidas a base de malta",
+        "en": "Beer and malt beverages",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=254"
+    },
+    "14.2.2": {
+        "es": "Sidra y sidra de pera",
+        "en": "Cider and perry",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=255"
+    },
+    "14.2.3": {
+        "es": "Vinos de uva",
+        "en": "Grape wines",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=256"
+    },
+    "14.2.3.1": {
+        "es": "Vino de uva no espumoso",
+        "en": "Still grape wine",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=257"
+    },
+    "14.2.3.2": {
+        "es": "Vinos de uva espumosos y semiespumosos",
+        "en": "Sparkling and semi-sparkling grape wines",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=258"
+    },
+    "14.2.3.3": {
+        "es": "Vino de uva enriquecido, vino de uva licoroso y vino de uva dulce",
+        "en": "Fortified grape wine, grape liquor wine, and sweet grape wine",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=259"
+    },
+    "14.2.4": {
+        "es": "Vinos (distintos de los de uva)",
+        "en": "Wines (other than grape)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=260"
+    },
+    "14.2.5": {
+        "es": "Aguamiel",
+        "en": "Mead",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=261"
+    },
+    "14.2.6": {
+        "es": "Licores destilados que contengan más de un 15 por ciento de alcohol",
+        "en": "Distilled spirituous beverages containing more than 15% alcohol",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=262"
+    },
+    "14.2.7": {
+        "es": "Bebidas alcohólicas aromatizadas (p. ej. cerveza, vino y bebidas con licor tipo bebida gaseosa, bebidas refrescantes con bajo contenido de alcohol)",
+        "en": "Aromatized alcoholic beverages (e.g. beer, wine and spirituous cooler-type beverages, low alcoholic refreshers)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=263"
+    },
+    "15.0": {
+        "es": "Aperitivos listos para el consumo",
+        "en": "Ready-to-eat savouries",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=264"
+    },
+    "15.1": {
+        "es": "Aperitivos a base de patatas (papas), cereales, harina o almidón (derivados de raíces y tubérculos, legumbres y leguminosas)",
+        "en": "Snacks - potato, cereal, flour or starch based (from roots and tubers, pulses and legumes)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=265"
+    },
+    "15.2": {
+        "es": "Nueces elaboradas, incluidas las nueces revestidas y las mezclas de nueces (p. ej. con frutas secas)",
+        "en": "Processed nuts, including coated nuts and nut mixtures (with e.g. dried fruit)",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=266"
+    },
+    "15.3": {
+        "es": "Aperitivos a base de pescado",
+        "en": "Snacks - fish based",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=267"
+    },
+    "16.0": {
+        "es": "Alimentos preparados",
+        "en": "Prepared foods",
+        "url": "https://www.fao.org/gsfaonline/foods/details.html?id=268"
+    }
+}
