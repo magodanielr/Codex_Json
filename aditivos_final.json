@@ -1,0 +1,1905 @@
+{
+    "905e": {
+        "es": "Aceite mineral, viscosidad media",
+        "en": "Mineral oil, medium  viscosity",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=291"
+    },
+    "1503": {
+        "es": "Aceite de ricino",
+        "en": "Castor oil",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=288"
+    },
+    "1420": {
+        "es": "Acetato de almidón",
+        "en": "Starch acetate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=161"
+    },
+    "1100(i)": {
+        "es": "alfa-Amilasa de Aspergillus oryzae var.",
+        "en": "alpha-Amylase from Aspergillus oryzae var.",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=295"
+    },
+    "479": {
+        "es": "Aceite de soja oxidado con procedimiento térmico interaccionado con monoglicéridos y diglicéridos de ácidos grasos",
+        "en": "Thermally oxidized soya bean oil interacted with mono- and diglycerides of fatty acids",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=258"
+    },
+    "263": {
+        "es": "Acetato de calcio",
+        "en": "Calcium acetate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=317"
+    },
+    "950": {
+        "es": "Acesulfame de potasio",
+        "en": "Acesulfame potassium",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=104"
+    },
+    "905d": {
+        "es": "Aceite mineral de alta viscosidad",
+        "en": "Mineral oil, high viscosity",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=292"
+    },
+    "444": {
+        "es": "Acetato isobutirato de sacarosa",
+        "en": "Sucrose acetate isobutyrate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=335"
+    },
+    "1203": {
+        "es": "Alcohol polivinílico",
+        "en": "Polyvinyl alcohol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=341"
+    },
+    "1422": {
+        "es": "Adipato de dialmidón acetilado",
+        "en": "Acetylated distarch adipate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=152"
+    },
+    "969": {
+        "es": "Advantame",
+        "en": "Advantame",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=416"
+    },
+    "406": {
+        "es": "Agar",
+        "en": "Agar",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=8"
+    },
+    "407a": {
+        "es": "Alga euchema elaborada",
+        "en": "Processed eucheuma seaweed (PES)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=15"
+    },
+    "956": {
+        "es": "Alitame",
+        "en": "Alitame",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=108"
+    },
+    "403": {
+        "es": "Alginato de amonio",
+        "en": "Ammonium alginate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=181"
+    },
+    "402": {
+        "es": "Alginato de potasio",
+        "en": "Potassium alginate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=74"
+    },
+    "405": {
+        "es": "Alginato de propilenglicol",
+        "en": "Propylene glycol alginate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=75"
+    },
+    "1405": {
+        "es": "Almidones tratados con enzimas",
+        "en": "Starches, enzyme treated",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=155"
+    },
+    "401": {
+        "es": "Alginato de sodio",
+        "en": "Sodium alginate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=52"
+    },
+    "1451": {
+        "es": "Almidón acetilado oxidado",
+        "en": "Acetylated oxidized starch",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=348"
+    },
+    "1404": {
+        "es": "Almidón oxidado",
+        "en": "Oxidized starch",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=69"
+    },
+    "404": {
+        "es": "Alginato de calcio",
+        "en": "Calcium alginate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=64"
+    },
+    "1440": {
+        "es": "Almidón hidroxipropílico",
+        "en": "Hydroxypropyl starch",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=66"
+    },
+    "1401": {
+        "es": "Almidón tratado con ácido",
+        "en": "Acid-treated starch",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=149"
+    },
+    "1403": {
+        "es": "Almidón blanqueado",
+        "en": "Bleached starch",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=151"
+    },
+    "123": {
+        "es": "Amaranto",
+        "en": "Amaranth",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=105"
+    },
+    "1402": {
+        "es": "Almidón tratado con álcalis",
+        "en": "Alkaline treated starch",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=147"
+    },
+    "104": {
+        "es": "Amarillo de quinoleína",
+        "en": "Quinoline yellow",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=132"
+    },
+    "110": {
+        "es": "Amarillo ocaso FCF",
+        "en": "Sunset yellow FCF",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=124"
+    },
+    "927a": {
+        "es": "Azodicarbonamida",
+        "en": "Azodicarbonamide",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=304"
+    },
+    "302": {
+        "es": "Ascorbato de calcio",
+        "en": "Calcium ascorbate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=244"
+    },
+    "122": {
+        "es": "Azorrubina (Carmoisina)",
+        "en": "Azorubine (Carmoisine)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=91"
+    },
+    "951": {
+        "es": "Aspartamo",
+        "en": "Aspartame",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=90"
+    },
+    "301": {
+        "es": "Ascorbato de sodio",
+        "en": "Sodium ascorbate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=249"
+    },
+    "183": {
+        "es": "Azul de jagua (genipina-glicina)",
+        "en": "Jagua (genipin-glycine) blue (Jagua blue)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=430"
+    },
+    "133": {
+        "es": "Azul brillante FCF",
+        "en": "Brilliant blue FCF",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=111"
+    },
+    "210": {
+        "es": "Ácido benzoico",
+        "en": "Benzoic acid",
+        "grupo_es": "BENZOATOS",
+        "grupo_en": "BENZOATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=162"
+    },
+    "213": {
+        "es": "Benzoato de calcio",
+        "en": "Calcium benzoate",
+        "grupo_es": "BENZOATOS",
+        "grupo_en": "BENZOATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=162"
+    },
+    "212": {
+        "es": "Benzoato de potasio",
+        "en": "Potassium benzoate",
+        "grupo_es": "BENZOATOS",
+        "grupo_en": "BENZOATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=162"
+    },
+    "211": {
+        "es": "Benzoato de sodio",
+        "en": "Sodium benzoate",
+        "grupo_es": "BENZOATOS",
+        "grupo_en": "BENZOATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=162"
+    },
+    "141(ii)": {
+        "es": "Clorofilinas, complejos cúpricos, sales de potasio y sodio",
+        "en": "Chlorophyllin copper complexes,  potassium and sodium salts",
+        "grupo_es": "CLOROFILAS Y CLOROFILINAS, COMPLEJOS CUPRICOS",
+        "grupo_en": "CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=63"
+    },
+    "141(i)": {
+        "es": "Clorofilas, complejos cúpricos",
+        "en": "Chlorophylls, copper complexes",
+        "grupo_es": "CLOROFILAS Y CLOROFILINAS, COMPLEJOS CUPRICOS",
+        "grupo_en": "CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=63"
+    },
+    "952(ii)": {
+        "es": "Ciclamato de calcio",
+        "en": "Calcium cyclamate",
+        "grupo_es": "CICLAMATOS",
+        "grupo_en": "CYCLAMATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=71"
+    },
+    "952(i)": {
+        "es": "Ácido ciclámico",
+        "en": "Cyclamic acid",
+        "grupo_es": "CICLAMATOS",
+        "grupo_en": "CYCLAMATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=71"
+    },
+    "952(iv)": {
+        "es": "Ciclamato de sodio",
+        "en": "Sodium cyclamate",
+        "grupo_es": "CICLAMATOS",
+        "grupo_en": "CYCLAMATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=71"
+    },
+    "160a(iv)": {
+        "es": "Extracto de Dunaliella salina rico en beta-carotenos",
+        "en": "β-Carotene-rich extract from Dunaliella Salina",
+        "grupo_es": "CAROTENOS, BETA-",
+        "grupo_en": "CAROTENES, BETA-",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=67"
+    },
+    "160a(i)": {
+        "es": "Carotenos, beta-, sintético",
+        "en": "beta-Carotenes, synthetic",
+        "grupo_es": "CAROTENOS, BETA-",
+        "grupo_en": "CAROTENES, BETA-",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=67"
+    },
+    "160a(iii)": {
+        "es": "Carotenos, beta-, Blakeslea trispora-",
+        "en": "beta-Carotenes, Blakeslea trispora",
+        "grupo_es": "CAROTENOS, BETA-",
+        "grupo_en": "CAROTENES, BETA-",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=67"
+    },
+    "321": {
+        "es": "Butilhidroxitolueno (BHT)",
+        "en": "Butylated hydroxytoluene (BHT)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=189"
+    },
+    "320": {
+        "es": "Butilhidroxianisol (BHA)",
+        "en": "Butylated hydroxyanisole (BHA)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=186"
+    },
+    "161g": {
+        "es": "Cantaxantina",
+        "en": "Canthaxanthin",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=95"
+    },
+    "161b(iii)": {
+        "es": "Ésteres de luteína de Tagetes erecta",
+        "en": "Lutein esters from Tagetes erecta",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=419"
+    },
+    "150a": {
+        "es": "Caramelo I –  caramelo puro",
+        "en": "Caramel I – plain caramel",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=193"
+    },
+    "150d": {
+        "es": "Caramelo IV - caramelo al sulfito amónico",
+        "en": "Caramel IV - sulfite ammonia caramel",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=94"
+    },
+    "1100(vi)": {
+        "es": "Carboidrasa  de Bacillus licheniformi",
+        "en": "Carbohydrase from Bacillus licheniformis",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=301"
+    },
+    "150b": {
+        "es": "Caramelo II - caramelo al sulfito",
+        "en": "Caramel II - sulfite caramel",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=100"
+    },
+    "150c": {
+        "es": "Caramelo III - caramelo al amoníaco",
+        "en": "Caramel III - ammonia caramel",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=101"
+    },
+    "1100(ii)": {
+        "es": "alfa-Amilasa de Bacillus stearothermophilus",
+        "en": "alpha-Amylase from Bacillus stearothermophilus",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=351"
+    },
+    "468": {
+        "es": "Carboximetilcelulosa sódica reticulada (Goma de celulosa reticulada)",
+        "en": "Cross-linked sodium carboxymethyl cellulose (Cross-linked-cellulose gum)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=346"
+    },
+    "466": {
+        "es": "Carboximetilcelulosa sódica (Goma de celulosa)",
+        "en": "Sodium carboxymethyl cellulose (Cellulose gum)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=51"
+    },
+    "469": {
+        "es": "Carboximetilcelulosa sódica, hidrolizada mediante enzimas (Goma de celulosa hidrolizada mediante enzimas)",
+        "en": "Sodium carboxymethyl cellulose, enzymatically hydrolysed (Cellulose gum, enzymatically hydrolyzed)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=372"
+    },
+    "120": {
+        "es": "Carmines",
+        "en": "Carmines",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=89"
+    },
+    "160e": {
+        "es": "Carotenal, beta-apo-8'-",
+        "en": "Carotenal, beta-apo-8'-",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=98"
+    },
+    "902": {
+        "es": "Cera candelilla",
+        "en": "Candelilla wax",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=263"
+    },
+    "407": {
+        "es": "Carragenina",
+        "en": "Carrageenan",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=49"
+    },
+    "903": {
+        "es": "Cera carnauba",
+        "en": "Carnauba wax",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=264"
+    },
+    "901": {
+        "es": "Cera de abejas",
+        "en": "Beeswax",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=265"
+    },
+    "459": {
+        "es": "Ciclodextrina, beta-",
+        "en": "Cyclodextrin, beta-",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=289"
+    },
+    "457": {
+        "es": "Ciclodextrina, alfa-",
+        "en": "Cyclodextrin, alpha-",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=347"
+    },
+    "458": {
+        "es": "Ciclodextrina, gamma-",
+        "en": "Cyclodextrin, gamma-",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=355"
+    },
+    "484": {
+        "es": "Citrato de estearilo",
+        "en": "Stearyl citrate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=248"
+    },
+    "381": {
+        "es": "Citrato de amonio férrico",
+        "en": "Ferric ammonium citrate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=318"
+    },
+    "380": {
+        "es": "Citrato de triamonio",
+        "en": "Triammonium citrate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=353"
+    },
+    "1505": {
+        "es": "Citrato de trietilo",
+        "en": "Triethyl citrate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=314"
+    },
+    "925": {
+        "es": "Cloro",
+        "en": "Chlorine",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=302"
+    },
+    "384": {
+        "es": "Citratos de isopropilo",
+        "en": "Isopropyl citrates",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=255"
+    },
+    "140": {
+        "es": "Clorofilas",
+        "en": "Chlorophylls",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=192"
+    },
+    "512": {
+        "es": "Cloruro estañoso",
+        "en": "Stannous chloride",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=272"
+    },
+    "510": {
+        "es": "Cloruro de amonio",
+        "en": "Ammonium chloride",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=279"
+    },
+    "509": {
+        "es": "Cloruro de calcio",
+        "en": "Calcium chloride",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=197"
+    },
+    "508": {
+        "es": "Cloruro de potasio",
+        "en": "Potassium chloride",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=202"
+    },
+    "1209": {
+        "es": "Copolímero con injerto de polivinialcohol (PVA)-Polietilenglicol",
+        "en": "Polyvinyl alcohol (PVA) –Polyethylene glycol (PEG) graft copolymer",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=418"
+    },
+    "511": {
+        "es": "Cloruro magnésico",
+        "en": "Magnesium chloride",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=73"
+    },
+    "1205": {
+        "es": "Copolímero de metacrilato básico (CMB)",
+        "en": "Methacrylate copolymer, basic (BMC)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=425"
+    },
+    "424": {
+        "es": "Curdlan",
+        "en": "Curdlan",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=307"
+    },
+    "1400": {
+        "es": "Dextrinas, almidón tostado",
+        "en": "Dextrins, roasted starch",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=148"
+    },
+    "230": {
+        "es": "Difenilo",
+        "en": "Diphenyl",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=261"
+    },
+    "242": {
+        "es": "Dimetil dicarbonato",
+        "en": "Dimethyl dicarbonate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=334"
+    },
+    "480": {
+        "es": "Dioctil sulfosuccinato de sodio",
+        "en": "Dioctyl sodium sulfosuccinate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=112"
+    },
+    "430": {
+        "es": "Estearato de polioxietileno (8)",
+        "en": "Polyoxyethylene (8) stearate",
+        "grupo_es": "ESTEARATOS DE POLIOXIETILENO",
+        "grupo_en": "POLYOXYETHYLENE STEARATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=177"
+    },
+    "431": {
+        "es": "Estearato de polioxietileno (40)",
+        "en": "Polyoxyethylene (40) stearate",
+        "grupo_es": "ESTEARATOS DE POLIOXIETILENO",
+        "grupo_en": "POLYOXYETHYLENE STEARATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=177"
+    },
+    "290": {
+        "es": "Dióxido de carbono",
+        "en": "Carbon dioxide",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=7"
+    },
+    "386": {
+        "es": "Etilendiaminotetracetato disódico",
+        "en": "Disodium ethylenediaminetetraacetate",
+        "grupo_es": "ETILEN DIAMINO TETRA ACETATOS",
+        "grupo_en": "ETHYLENE DIAMINE TETRA ACETATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=184"
+    },
+    "385": {
+        "es": "Etilendiaminotetracetato de calcio disódico",
+        "en": "Calcium disodium ethylenediaminetetraacetate",
+        "grupo_es": "ETILEN DIAMINO TETRA ACETATOS",
+        "grupo_en": "ETHYLENE DIAMINE TETRA ACETATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=184"
+    },
+    "551": {
+        "es": "Dióxido de silicio amorfo",
+        "en": "Silicon dioxide, amorphous",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=284"
+    },
+    "481(i)": {
+        "es": "Estearoil lactilato de sodio",
+        "en": "Sodium stearoyl lactylate",
+        "grupo_es": "ESTEAROIL LACTILATOS",
+        "grupo_en": "STEAROYL LACTYLATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=95"
+    },
+    "482(i)": {
+        "es": "Estearoil lactilato de calcio",
+        "en": "Calcium stearoyl lactylate",
+        "grupo_es": "ESTEAROIL LACTILATOS",
+        "grupo_en": "STEAROYL LACTYLATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=95"
+    },
+    "171": {
+        "es": "Dióxido de titanio",
+        "en": "Titanium dioxide",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=184"
+    },
+    "999(i)": {
+        "es": "Extracto de quilaya, tipo 1",
+        "en": "Quillaia extract type I",
+        "grupo_es": "EXTRACTOS DE QUILAYA",
+        "grupo_en": "QUILLAIA EXTRACTS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=257"
+    },
+    "999(ii)": {
+        "es": "Extracto de quilaya, tipo 2",
+        "en": "Quillaia extract type 2",
+        "grupo_es": "EXTRACTOS DE QUILAYA",
+        "grupo_en": "QUILLAIA EXTRACTS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=257"
+    },
+    "127": {
+        "es": "Eritrosina",
+        "en": "Erythrosine",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=87"
+    },
+    "462": {
+        "es": "Etil celulosa",
+        "en": "Ethyl cellulose",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=356"
+    },
+    "316": {
+        "es": "Eritorbato de sodio (Isoascorbato de sodio)",
+        "en": "Sodium erythorbate (Sodium isoascorbate)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=254"
+    },
+    "243": {
+        "es": "Etil-lauroil arginato",
+        "en": "Lauric arginate ethyl ester",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=407"
+    },
+    "467": {
+        "es": "Etilhidroxietilcelulosa",
+        "en": "Ethyl hydroxyethyl cellulose",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=357"
+    },
+    "637": {
+        "es": "Etilmaltol",
+        "en": "Ethyl maltol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=102"
+    },
+    "968": {
+        "es": "Eritritol",
+        "en": "Erythritol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=153"
+    },
+    "538": {
+        "es": "Ferrocianuro de calcio",
+        "en": "Calcium ferrocyanide",
+        "grupo_es": "FERROCIANUROS",
+        "grupo_en": "FERROCYANIDES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=242"
+    },
+    "535": {
+        "es": "Ferrocianuro de sodio",
+        "en": "Sodium ferrocyanide",
+        "grupo_es": "FERROCIANUROS",
+        "grupo_en": "FERROCYANIDES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=242"
+    },
+    "536": {
+        "es": "Ferrocianuro de potasio",
+        "en": "Potassium ferrocyanide",
+        "grupo_es": "FERROCIANUROS",
+        "grupo_en": "FERROCYANIDES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=242"
+    },
+    "134": {
+        "es": "Extracto de espirulina",
+        "en": "Spirulina Extract",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=433"
+    },
+    "541(i)": {
+        "es": "Fosfato de aluminio y sodio, ácido",
+        "en": "Sodium aluminium phosphate, acidic",
+        "grupo_es": "FOSFATOS DE ALUMINIO Y SODIO",
+        "grupo_en": "SODIUM ALUMINIUM PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=154"
+    },
+    "541(ii)": {
+        "es": "Fosfato de aluminio y sodio, básico",
+        "en": "Sodium aluminium phosphate, basic",
+        "grupo_es": "FOSFATOS DE ALUMINIO Y SODIO",
+        "grupo_en": "SODIUM ALUMINIUM PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=154"
+    },
+    "1412": {
+        "es": "Fosfato de dialmidón",
+        "en": "Distarch phosphate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=154"
+    },
+    "1413": {
+        "es": "Fosfato de dialmidón fosfatado",
+        "en": "Phosphated distarch phosphate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=157"
+    },
+    "1410": {
+        "es": "Fosfato de monoalmidón",
+        "en": "Monostarch phosphate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=160"
+    },
+    "452(ii)": {
+        "es": "Polifosfato de potasio",
+        "en": "Potassium polyphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "340(i)": {
+        "es": "Fosfato diácido de potasio",
+        "en": "Potassium dihydrogen phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "341(iii)": {
+        "es": "Fosfato tricálcico",
+        "en": "Tricalcium phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "452(iv)": {
+        "es": "Polifosfatos de calcio",
+        "en": "Calcium polyphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "450(v)": {
+        "es": "Difosfato tetrapotásico",
+        "en": "Tetrapotassium diphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "339(ii)": {
+        "es": "Hidrogenfosfato disódico",
+        "en": "Disodium hydrogen phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "340(iii)": {
+        "es": "Fosfato tripotásico",
+        "en": "Tripotassium phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "452(iii)": {
+        "es": "Polifosfato de sodio y calcio",
+        "en": "Sodium calcium polyphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "342(i)": {
+        "es": "Fosfato diácido de amonio",
+        "en": "Ammonium dihydrogen phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "451(i)": {
+        "es": "Trifosfato pentasódico",
+        "en": "Pentasodium triphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "542": {
+        "es": "Fosfato de huesos",
+        "en": "Bone phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "450(ix)": {
+        "es": "Difosfato diácido de magnesio",
+        "en": "Magnesium dihydrogen diphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "342(ii)": {
+        "es": "Hydrogenfosfato diamónico",
+        "en": "Diammonium hydrogen phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "450(vii)": {
+        "es": "Difosfato diácido de calcio",
+        "en": "Calcium dihydrogen diphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "452(v)": {
+        "es": "Polifosfatos de amonio",
+        "en": "Ammonium polyphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "343(iii)": {
+        "es": "Fosfato trimagnésico",
+        "en": "Trimagnesium phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "339(i)": {
+        "es": "Ortofosfato monosódico",
+        "en": "Sodium dihydrogen phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "341(i)": {
+        "es": "Fosfato diácido de calcio",
+        "en": "Calcium dihydrogen phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "339(iii)": {
+        "es": "Fosfato trisódico",
+        "en": "Trisodium phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "341(ii)": {
+        "es": "Hydrogenfosfato de calcio",
+        "en": "Calcium hydrogen phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "450(vi)": {
+        "es": "Difosfato dicálcico",
+        "en": "Dicalcium  diphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "450(i)": {
+        "es": "Difosfato disódico",
+        "en": "Disodium diphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "343(ii)": {
+        "es": "Hydrogenfosfato de magnesio",
+        "en": "Magnesium hydrogen phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "343(i)": {
+        "es": "Fosfato diácido de magnesio",
+        "en": "Magnesium dihydrogen phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "450(ii)": {
+        "es": "Difosfato trisódico",
+        "en": "Trisodium diphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "452(i)": {
+        "es": "Polifosfato de sodio",
+        "en": "Sodium polyphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "340(ii)": {
+        "es": "Hidrogenfosfato dipotásico",
+        "en": "Dipotassium hydrogen phosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "338": {
+        "es": "Ácido fosfórico",
+        "en": "Phosphoric acid",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "450(iii)": {
+        "es": "Difosfato tetrasódico",
+        "en": "Tetrasodium diphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "451(ii)": {
+        "es": "Trifosfato pentapotásico",
+        "en": "Pentapotassium triphosphate",
+        "grupo_es": "FOSFATOS",
+        "grupo_en": "PHOSPHATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=18"
+    },
+    "1442": {
+        "es": "Fosfato de hidroxipropil dialmidón",
+        "en": "Hydroxypropyl distarch phosphate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=150"
+    },
+    "365": {
+        "es": "Fumarato de sodio",
+        "en": "Sodium fumarates",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=285"
+    },
+    "960b": {
+        "es": "Glicósidos de esteviol de fermentación",
+        "en": "Steviol glycosides from fermentation",
+        "grupo_es": "GLICÓSIDOS DE ESTEVIOL",
+        "grupo_en": "STEVIOL GLYCOSIDES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=309"
+    },
+    "960c": {
+        "es": "Glicósidos de esteviol producidos enzimáticamente",
+        "en": "Enzymatically produced steviol glycosides",
+        "grupo_es": "GLICÓSIDOS DE ESTEVIOL",
+        "grupo_en": "STEVIOL GLYCOSIDES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=309"
+    },
+    "960d": {
+        "es": "Glicósidos glicosilados de esteviol",
+        "en": "Glucosylated steviol glycosides",
+        "grupo_es": "GLICÓSIDOS DE ESTEVIOL",
+        "grupo_en": "STEVIOL GLYCOSIDES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=309"
+    },
+    "960a": {
+        "es": "Glicósidos de esteviol de Stevia rebaudiana Bertoni (glicósidos de esteviol de estevia)",
+        "en": "Steviol glycosides from Stevia rebaudiana Bertoni (Steviol glycosides from Stevia)",
+        "grupo_es": "GLICÓSIDOS DE ESTEVIOL",
+        "grupo_en": "STEVIOL GLYCOSIDES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=309"
+    },
+    "310": {
+        "es": "Galato de propilo",
+        "en": "Propyl gallate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=204"
+    },
+    "422": {
+        "es": "Glicerol",
+        "en": "Glycerol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=62"
+    },
+    "578": {
+        "es": "Gluconato de calcio",
+        "en": "Calcium gluconate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=275"
+    },
+    "576": {
+        "es": "Gluconato de sodio",
+        "en": "Sodium gluconate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=286"
+    },
+    "1414": {
+        "es": "Fosfato de dialmidón acetilado",
+        "en": "Acetylated distarch phosphate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=60"
+    },
+    "579": {
+        "es": "Gluconato ferroso",
+        "en": "Ferrous gluconate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=277"
+    },
+    "580": {
+        "es": "Gluconato de magnésio",
+        "en": "Magnesium gluconate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=361"
+    },
+    "577": {
+        "es": "Gluconato de potásio",
+        "en": "Potassium gluconate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=364"
+    },
+    "575": {
+        "es": "Glucono-delta-lactona",
+        "en": "Glucono delta-lactone",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=172"
+    },
+    "623": {
+        "es": "Glutamato de calcium, di-L-",
+        "en": "Calcium di-L-glutamate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=323"
+    },
+    "624": {
+        "es": "Glutamato monoamónico, L-",
+        "en": "Monoammonium L-glutamate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=308"
+    },
+    "622": {
+        "es": "Glutamato monopotassium, L-",
+        "en": "Monopotassium L-glutamate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=313"
+    },
+    "625": {
+        "es": "Glutamato de magnesio, di-L-",
+        "en": "Magnesium di-L-glutamate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=331"
+    },
+    "621": {
+        "es": "Glutamato monosódico, L-",
+        "en": "Monosodium L-glutamate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=276"
+    },
+    "427": {
+        "es": "Goma de acacia",
+        "en": "Cassia gum",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=408"
+    },
+    "410": {
+        "es": "Goma de semillas de algarrobo",
+        "en": "Carob bean gum",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=50"
+    },
+    "419": {
+        "es": "Goma ghatti",
+        "en": "Gum ghatti",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=422"
+    },
+    "412": {
+        "es": "Goma guar",
+        "en": "Guar gum",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=9"
+    },
+    "414": {
+        "es": "Goma arábiga (Goma de acacia)",
+        "en": "Gum arabic (Acacia gum)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=63"
+    },
+    "416": {
+        "es": "Goma karaya",
+        "en": "Karaya gum",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=5"
+    },
+    "904": {
+        "es": "Goma laca, blanqueada",
+        "en": "Shellac, bleached",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=271"
+    },
+    "417": {
+        "es": "Goma tara",
+        "en": "Tara gum",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=17"
+    },
+    "214": {
+        "es": "Etil para-hidroxibenzoato",
+        "en": "Ethyl para-hydroxybenzoate",
+        "grupo_es": "HIDROXIBENZOATOS, PARA-",
+        "grupo_en": "HYDROXYBENZOATES, PARA-",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=156"
+    },
+    "218": {
+        "es": "Metil para-hydroxibenzoato",
+        "en": "Methyl para-hydroxybenzoate",
+        "grupo_es": "HIDROXIBENZOATOS, PARA-",
+        "grupo_en": "HYDROXYBENZOATES, PARA-",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=156"
+    },
+    "413": {
+        "es": "Goma tragacanto",
+        "en": "Tragacanth gum",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=55"
+    },
+    "629": {
+        "es": "Guanilato de calcio, 5'-",
+        "en": "Calcium 5'-guanylate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=327"
+    },
+    "628": {
+        "es": "Guanilato dipotásico, 5'-",
+        "en": "Dipotassium 5'-guanylate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=324"
+    },
+    "627": {
+        "es": "Guanilato disódico, 5'-",
+        "en": "Disodium 5'-guanylate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=281"
+    },
+    "415": {
+        "es": "Goma xantana",
+        "en": "Xanthan gum",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=48"
+    },
+    "239": {
+        "es": "Hexametilentetramina",
+        "en": "Hexamethylene tetramine",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=220"
+    },
+    "425": {
+        "es": "Harina konjac",
+        "en": "Konjac flour",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=10"
+    },
+    "586": {
+        "es": "Hexilresorcinol, 4-",
+        "en": "4-Hexylresorcinol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=434"
+    },
+    "1105": {
+        "es": "Hidrocloruro de lisozima",
+        "en": "Lysozyme",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=218"
+    },
+    "527": {
+        "es": "Hidróxido de amónio",
+        "en": "Ammonium hydroxide",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=380"
+    },
+    "526": {
+        "es": "Hidróxido de calcio",
+        "en": "Calcium hydroxide",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=257"
+    },
+    "464": {
+        "es": "Hidroxipropilmetilcelulosa",
+        "en": "Hydroxypropyl methyl cellulose",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=65"
+    },
+    "463": {
+        "es": "Hidroxipropilcelulosa",
+        "en": "Hydroxypropyl cellulose",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=57"
+    },
+    "525": {
+        "es": "Hidróxido de potasio",
+        "en": "Potassium hydroxide",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=311"
+    },
+    "528": {
+        "es": "Hidróxido de magnesio",
+        "en": "Magnesium hydroxide",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=82"
+    },
+    "524": {
+        "es": "Hidróxido de sodio",
+        "en": "Sodium hydroxide",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=256"
+    },
+    "633": {
+        "es": "Inosinato de calcio, 5'-",
+        "en": "Calcium 5'-inosinate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=330"
+    },
+    "1103": {
+        "es": "Invertasas",
+        "en": "Invertases",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=339"
+    },
+    "632": {
+        "es": "Inosinato de potasio, 5’-",
+        "en": "Potassium 5’-inosinate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=326"
+    },
+    "631": {
+        "es": "Inosinato disódico, 5'-",
+        "en": "Disodium 5'-inosinate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=283"
+    },
+    "132": {
+        "es": "Indigotina (Carmín de índigo)",
+        "en": "Indigotine (Indigo carmine)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=96"
+    },
+    "953": {
+        "es": "Isomaltol (Isomaltulosa hidrogenada)",
+        "en": "Isomalt (Hydrogenated isomaltulose)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=180"
+    },
+    "964": {
+        "es": "Jarabe de poliglicitol",
+        "en": "Polyglycitol syrup",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=363"
+    },
+    "327": {
+        "es": "Lactato de calcio",
+        "en": "Calcium lactate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=194"
+    },
+    "329": {
+        "es": "Lactato de magnésio, DL-",
+        "en": "Magnesium lactate, DL-",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=362"
+    },
+    "326": {
+        "es": "Lactato de potasio",
+        "en": "Potassium lactate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=72"
+    },
+    "585": {
+        "es": "Lactato ferroso",
+        "en": "Ferrous lactate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=278"
+    },
+    "966": {
+        "es": "Lactitol",
+        "en": "Lactitol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=156"
+    },
+    "1104": {
+        "es": "Lipasas",
+        "en": "Lipases",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=359"
+    },
+    "325": {
+        "es": "Lactato de sodio",
+        "en": "Sodium lactate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=84"
+    },
+    "636": {
+        "es": "Maltol",
+        "en": "Maltol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=125"
+    },
+    "455": {
+        "es": "Mannoproteínas de levadura",
+        "en": "Mannoproteins from yeast cell walls",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=435"
+    },
+    "421": {
+        "es": "Manitol",
+        "en": "Mannitol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=182"
+    },
+    "251": {
+        "es": "Nitrato de sodio",
+        "en": "Sodium nitrate",
+        "grupo_es": "NITRATOS",
+        "grupo_en": "NITRATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=153"
+    },
+    "252": {
+        "es": "Nitrato de potasio",
+        "en": "Potassium nitrate",
+        "grupo_es": "NITRATOS",
+        "grupo_en": "NITRATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=153"
+    },
+    "250": {
+        "es": "Nitrito de sodio",
+        "en": "Sodium nitrite",
+        "grupo_es": "NITRITOS",
+        "grupo_en": "NITRITES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=151"
+    },
+    "249": {
+        "es": "Nitrito de potasio",
+        "en": "Potassium nitrite",
+        "grupo_es": "NITRITOS",
+        "grupo_en": "NITRITES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=151"
+    },
+    "155": {
+        "es": "Marrón HT",
+        "en": "Brown HT",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=114"
+    },
+    "461": {
+        "es": "Metilcelulosa",
+        "en": "Methyl cellulose",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=83"
+    },
+    "471": {
+        "es": "Monoglicéridos y diglicéridos de ácidos grasos",
+        "en": "Mono- and di-glycerides of fatty acids",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=19"
+    },
+    "465": {
+        "es": "Metiletilcelulosa",
+        "en": "Methyl ethyl cellulose",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=85"
+    },
+    "151": {
+        "es": "Negro brillante (Negro PN)",
+        "en": "Brilliant black (Black PN)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=88"
+    },
+    "235": {
+        "es": "Natamicina (Pimaricina)",
+        "en": "Natamycin (Pimaricin)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=208"
+    },
+    "234": {
+        "es": "Nisina",
+        "en": "Nisin",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=1"
+    },
+    "436": {
+        "es": "Triestearato de sorbitán polioxietinelado (20)",
+        "en": "Polyoxyethylene (20) sorbitan tristearate",
+        "grupo_es": "POLISORBATOS",
+        "grupo_en": "POLYSORBATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=99"
+    },
+    "435": {
+        "es": "Monoesterato de sorbitán polioxietinelado (20)",
+        "en": "Polyoxyethylene (20) sorbitan monostearate",
+        "grupo_es": "POLISORBATOS",
+        "grupo_en": "POLYSORBATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=99"
+    },
+    "434": {
+        "es": "Monopalmitato de sorbitán polioxietinelado (20)",
+        "en": "Polyoxyethylene (20) sorbitan monopalmitate",
+        "grupo_es": "POLISORBATOS",
+        "grupo_en": "POLYSORBATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=99"
+    },
+    "432": {
+        "es": "Monalaurato de sorbitán polioxietinelado (20)",
+        "en": "Polyoxyethylene (20) sorbitan monolaurate",
+        "grupo_es": "POLISORBATOS",
+        "grupo_en": "POLYSORBATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=99"
+    },
+    "433": {
+        "es": "Monooleato de sorbitán polioxietinelado (20)",
+        "en": "Polyoxyethylene (20) sorbitan monooleate",
+        "grupo_es": "POLISORBATOS",
+        "grupo_en": "POLYSORBATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=99"
+    },
+    "1450": {
+        "es": "Octenilsuccionato sódico de almidón",
+        "en": "Starch sodium octenyl succinate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=158"
+    },
+    "1102": {
+        "es": "Oxidasa de glucosa",
+        "en": "Glucose oxidase",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=305"
+    },
+    "941": {
+        "es": "Nitrógeno",
+        "en": "Nitrogen",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=47"
+    },
+    "961": {
+        "es": "Neotamo",
+        "en": "Neotame",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=340"
+    },
+    "928": {
+        "es": "Peróxido de benzoílo",
+        "en": "Benzoyl peroxide",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=219"
+    },
+    "907": {
+        "es": "Poli-1-deceno hidrogenado",
+        "en": "Hydrogenated poly-1-decenes",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=338"
+    },
+    "440": {
+        "es": "Pectinas",
+        "en": "Pectins",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=21"
+    },
+    "456": {
+        "es": "Poliaspartato de potasio",
+        "en": "Potassium polyaspartate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=431"
+    },
+    "1200": {
+        "es": "Polidextrosa",
+        "en": "Polydextroses",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=20"
+    },
+    "900a": {
+        "es": "Polidimetilsiloxano",
+        "en": "Polydimethylsiloxane",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=205"
+    },
+    "437": {
+        "es": "Polisacárido de semillas de tamarindo",
+        "en": "Tamarind seed polysaccharide",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=423"
+    },
+    "1201": {
+        "es": "Polivinilpirrolidona",
+        "en": "Polyvinylpyrrolidone",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=266"
+    },
+    "1520": {
+        "es": "Propilenglicol",
+        "en": "Propylene glycol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=214"
+    },
+    "124": {
+        "es": "Ponceau 4R (Rojo de cochinilla A)",
+        "en": "Ponceau 4R (Cochineal red A)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=130"
+    },
+    "1521": {
+        "es": "Polietilenglicol",
+        "en": "Polyethylene glycol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=270"
+    },
+    "283": {
+        "es": "Propionato de potásio",
+        "en": "Potassium propionate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=367"
+    },
+    "1202": {
+        "es": "Polivinilpirrolidona insoluble",
+        "en": "Polyvinylpyrrolidone, insoluble",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=358"
+    },
+    "282": {
+        "es": "Propionato de calcio",
+        "en": "Calcium propionate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=306"
+    },
+    "101(ii)": {
+        "es": "Riboflavina 5', fosfato de sodio",
+        "en": "Riboflavin 5'-phosphate sodium",
+        "grupo_es": "RIBOFLAVINAS",
+        "grupo_en": "RIBOFLAVINS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=96"
+    },
+    "101(iii)": {
+        "es": "Riboflavina de Bacillus subtilis",
+        "en": "Riboflavin from Bacillus subtilis",
+        "grupo_es": "RIBOFLAVINAS",
+        "grupo_en": "RIBOFLAVINS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=96"
+    },
+    "101(iv)": {
+        "es": "Riboflavina de Ashbya gossypii",
+        "en": "Riboflavin from Ashbya gossypii",
+        "grupo_es": "RIBOFLAVINAS",
+        "grupo_en": "RIBOFLAVINS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=96"
+    },
+    "101(i)": {
+        "es": "Riboflavina, sintéticas",
+        "en": "Riboflavin, synthetic",
+        "grupo_es": "RIBOFLAVINAS",
+        "grupo_en": "RIBOFLAVINS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=96"
+    },
+    "281": {
+        "es": "Propionato de sodio",
+        "en": "Sodium propionate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=375"
+    },
+    "314": {
+        "es": "Resina de guayaco",
+        "en": "Guaiac resin",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=240"
+    },
+    "634": {
+        "es": "Ribonucleótidos de calcio, 5'-",
+        "en": "Calcium 5'-ribonucleotides",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=282"
+    },
+    "1204": {
+        "es": "Pullulan",
+        "en": "Pullulan",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=382"
+    },
+    "635": {
+        "es": "Ribonucleótidos de sodio, 5'-",
+        "en": "Disodium 5'-ribonucleotides",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=280"
+    },
+    "129": {
+        "es": "Rojo allura AC",
+        "en": "Allura red AC",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=110"
+    },
+    "162": {
+        "es": "Rojo de remolacha",
+        "en": "Beet red",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=196"
+    },
+    "954(i)": {
+        "es": "Sacarina",
+        "en": "Saccharin",
+        "grupo_es": "SACARINAS",
+        "grupo_en": "SACCHARINS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=98"
+    },
+    "954(iv)": {
+        "es": "Sacarina de sodio",
+        "en": "Sodium saccharin",
+        "grupo_es": "SACARINAS",
+        "grupo_en": "SACCHARINS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=98"
+    },
+    "954(iii)": {
+        "es": "Sacarina de potasio",
+        "en": "Potassium saccharin",
+        "grupo_es": "SACARINAS",
+        "grupo_en": "SACCHARINS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=98"
+    },
+    "954(ii)": {
+        "es": "Sacarina de calcio",
+        "en": "Calcium saccharin",
+        "grupo_es": "SACARINAS",
+        "grupo_en": "SACCHARINS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=98"
+    },
+    "473a": {
+        "es": "Oligoésteres de sucrosa tipo I y II",
+        "en": "Sucrose Oligoesters, Type I and Type II",
+        "grupo_es": "SUCROÉSTERES",
+        "grupo_en": "SUCROSE ESTERS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=330"
+    },
+    "474": {
+        "es": "Sucroglicéridos",
+        "en": "Sucroglycerides",
+        "grupo_es": "SUCROÉSTERES",
+        "grupo_en": "SUCROSE ESTERS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=330"
+    },
+    "473": {
+        "es": "Sucroésteres de ácidos grasos",
+        "en": "Sucrose esters of fatty acids",
+        "grupo_es": "SUCROÉSTERES",
+        "grupo_en": "SUCROSE ESTERS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=330"
+    },
+    "200": {
+        "es": "Ácido sórbico",
+        "en": "Sorbic acid",
+        "grupo_es": "SORBATOS",
+        "grupo_en": "SORBATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=10"
+    },
+    "203": {
+        "es": "Sorbato de calcio",
+        "en": "Calcium sorbate",
+        "grupo_es": "SORBATOS",
+        "grupo_en": "SORBATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=10"
+    },
+    "202": {
+        "es": "Sorbato de potasio",
+        "en": "Potassium sorbate",
+        "grupo_es": "SORBATOS",
+        "grupo_en": "SORBATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=10"
+    },
+    "962": {
+        "es": "Sal de aspartamo y acesulfamo",
+        "en": "Aspartame-acesulfame salt",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=383"
+    },
+    "556": {
+        "es": "Silicato de aluminio y calcio",
+        "en": "Calcium aluminium silicate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=293"
+    },
+    "225": {
+        "es": "Sulfito de potasio",
+        "en": "Potassium sulfite",
+        "grupo_es": "SULFITOS",
+        "grupo_en": "SULFITES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=161"
+    },
+    "539": {
+        "es": "Tiosulfato de sodio",
+        "en": "Sodium thiosulfate",
+        "grupo_es": "SULFITOS",
+        "grupo_en": "SULFITES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=161"
+    },
+    "222": {
+        "es": "Sulfito ácido de sodio",
+        "en": "Sodium hydrogen sulfite",
+        "grupo_es": "SULFITOS",
+        "grupo_en": "SULFITES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=161"
+    },
+    "220": {
+        "es": "Dióxido de azufre",
+        "en": "Sulfur dioxide",
+        "grupo_es": "SULFITOS",
+        "grupo_en": "SULFITES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=161"
+    },
+    "224": {
+        "es": "Metabisulfito de potasio",
+        "en": "Potassium metabisulfite",
+        "grupo_es": "SULFITOS",
+        "grupo_en": "SULFITES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=161"
+    },
+    "223": {
+        "es": "Metabisulfito de sodio",
+        "en": "Sodium metabisulfite",
+        "grupo_es": "SULFITOS",
+        "grupo_en": "SULFITES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=161"
+    },
+    "221": {
+        "es": "Sulfito de sodio",
+        "en": "Sodium sulfite",
+        "grupo_es": "SULFITOS",
+        "grupo_en": "SULFITES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=161"
+    },
+    "552": {
+        "es": "Silicato de calcio",
+        "en": "Calcium silicate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=315"
+    },
+    "559": {
+        "es": "Silicato de aluminio",
+        "en": "Aluminium silicate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=294"
+    },
+    "520": {
+        "es": "Sulfato de aluminio",
+        "en": "Aluminium sulfate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=410"
+    },
+    "523": {
+        "es": "Sulfato de aluminio y amonio",
+        "en": "Aluminium ammonium sulfate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=273"
+    },
+    "516": {
+        "es": "Sulfato de calcio",
+        "en": "Calcium sulfate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=274"
+    },
+    "955": {
+        "es": "Sucralosa (Triclorogalactosacarosa)",
+        "en": "Sucralose (Trichlorogalactosucrose)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=137"
+    },
+    "389": {
+        "es": "Tiodipropionato de dilaurilo",
+        "en": "Dilauryl thiodipropionate",
+        "grupo_es": "TIODIPROPIONATOS",
+        "grupo_en": "THIODIPROPIONATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=166"
+    },
+    "388": {
+        "es": "Ácido tiodipropiónico",
+        "en": "Thiodipropionic acid",
+        "grupo_es": "TIODIPROPIONATOS",
+        "grupo_en": "THIODIPROPIONATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=166"
+    },
+    "518": {
+        "es": "Sulfato de magnesio",
+        "en": "Magnesium sulfate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=400"
+    },
+    "337": {
+        "es": "Tartrato de potasio y sodio, L(+)-",
+        "en": "Potassium sodium L(+)-tartrate",
+        "grupo_es": "TARTRATOS",
+        "grupo_en": "TARTRATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=117"
+    },
+    "335(ii)": {
+        "es": "Tartrato de sodio, L(+)-",
+        "en": "Sodium L(+)-tartrate",
+        "grupo_es": "TARTRATOS",
+        "grupo_en": "TARTRATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=117"
+    },
+    "334": {
+        "es": "Ácido tartárico, L(+)-",
+        "en": "L(+)-Tartaric acid",
+        "grupo_es": "TARTRATOS",
+        "grupo_en": "TARTRATES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=117"
+    },
+    "307a": {
+        "es": "Tocoferol, d-alfa-",
+        "en": "d-alpha-Tocopherol",
+        "grupo_es": "TOCOFEROLES",
+        "grupo_en": "TOCOPHEROLS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=2"
+    },
+    "307c": {
+        "es": "Tocoferol, dl-alfa-",
+        "en": "dl-alpha-Tocopherol",
+        "grupo_es": "TOCOFEROLES",
+        "grupo_en": "TOCOPHEROLS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=2"
+    },
+    "307b": {
+        "es": "Tocoférol concentrado, mexcla",
+        "en": "Tocopherol concentrate, mixed",
+        "grupo_es": "TOCOFEROLES",
+        "grupo_en": "TOCOPHEROLS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=2"
+    },
+    "442": {
+        "es": "Sales amónicas del ácido fosfatídico",
+        "en": "Ammonium salts of phosphatidic acid",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=126"
+    },
+    "483": {
+        "es": "Tartrato de estearilo",
+        "en": "Stearyl tartrate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=235"
+    },
+    "957": {
+        "es": "Taumatina",
+        "en": "Thaumatin",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=145"
+    },
+    "1518": {
+        "es": "Triacetina",
+        "en": "Triacetin",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=378"
+    },
+    "102": {
+        "es": "Tartrazina",
+        "en": "Tartrazine",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=86"
+    },
+    "143": {
+        "es": "Verde sólido FCF",
+        "en": "Fast green FCF",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=106"
+    },
+    "319": {
+        "es": "Terbutilhidroquinona (TBHQ)",
+        "en": "Tertiary butylhydroquinone (TBHQ)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=190"
+    },
+    "554": {
+        "es": "Silicato de sodio y aluminio",
+        "en": "Sodium aluminium silicate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=298"
+    },
+    "1100(v)": {
+        "es": "alfa-Amilasa de Bacillus stearothermophilus expresada en Bacillus subtilis",
+        "en": "alpha-Amylase from Bacillus stearothermophilus expressed in Bacillus subtilis",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=350"
+    },
+    "355": {
+        "es": "Ácido adípico",
+        "en": "Adipic acid",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=174"
+    },
+    "260": {
+        "es": "Ácido acético, glacial",
+        "en": "Acetic acid, glacial",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=170"
+    },
+    "967": {
+        "es": "Xilitol",
+        "en": "Xylitol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=146"
+    },
+    "300": {
+        "es": "Ácido ascórbico, L-",
+        "en": "Ascorbic acid, L-",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=241"
+    },
+    "400": {
+        "es": "Ácido algínico",
+        "en": "Alginic acid",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=59"
+    },
+    "297": {
+        "es": "Ácido fumárico",
+        "en": "Fumaric acid",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=171"
+    },
+    "330": {
+        "es": "Ácido cítrico",
+        "en": "Citric acid",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=173"
+    },
+    "507": {
+        "es": "Ácido clorhídrico",
+        "en": "Hydrochloric acid",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=178"
+    },
+    "315": {
+        "es": "Ácido eritórbico (Ácido isoascóbico)",
+        "en": "Erythorbic Acid (Isoascorbic acid)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=243"
+    },
+    "626": {
+        "es": "Ácido guanílico, 5'-",
+        "en": "Guanylic acid, 5'-",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=328"
+    },
+    "630": {
+        "es": "Ácido inosínico, 5'-",
+        "en": "Inosinic acid, 5'-",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=329"
+    },
+    "353": {
+        "es": "Ácido metatartárico",
+        "en": "Metatartaric acid",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=436"
+    },
+    "270": {
+        "es": "Ácido láctico, L-, D- y DL-",
+        "en": "Lactic acid, L-, D- and DL-",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=169"
+    },
+    "620": {
+        "es": "Ácido glutámico, L(+)-",
+        "en": "Glutamic acid, L(+)-",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=325"
+    },
+    "423": {
+        "es": "Ácido octenilsuccínico (OSA) goma de acacia modificada",
+        "en": "Octenyl succinic acid (OSA) modified gum arabic",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=421"
+    },
+    "296": {
+        "es": "Ácido málico, DL-",
+        "en": "Malic acid, DL-",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=179"
+    },
+    "181": {
+        "es": "Ácido tánico (Taninos)",
+        "en": "Tannic acid (Tannins)",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=236"
+    },
+    "280": {
+        "es": "Ácido propionico",
+        "en": "Propionic acid",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=370"
+    },
+    "495": {
+        "es": "Monopalmitato de sorbitán",
+        "en": "Sorbitan monopalmitate",
+        "grupo_es": "ÉSTERES DE SORBITÁN DE ÁCIDOS GRASOS",
+        "grupo_en": "SORBITAN ESTERS OF FATTY ACIDS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=85"
+    },
+    "494": {
+        "es": "Monooleato de sorbitán",
+        "en": "Sorbitan monooleate",
+        "grupo_es": "ÉSTERES DE SORBITÁN DE ÁCIDOS GRASOS",
+        "grupo_en": "SORBITAN ESTERS OF FATTY ACIDS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=85"
+    },
+    "491": {
+        "es": "Monoestearato de sorbitán",
+        "en": "Sorbitan monostearate",
+        "grupo_es": "ÉSTERES DE SORBITÁN DE ÁCIDOS GRASOS",
+        "grupo_en": "SORBITAN ESTERS OF FATTY ACIDS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=85"
+    },
+    "493": {
+        "es": "Monolaurato de sorbitán",
+        "en": "Sorbitan monolaurate",
+        "grupo_es": "ÉSTERES DE SORBITÁN DE ÁCIDOS GRASOS",
+        "grupo_en": "SORBITAN ESTERS OF FATTY ACIDS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=85"
+    },
+    "492": {
+        "es": "Triestearato de sorbitán",
+        "en": "Sorbitan tristearate",
+        "grupo_es": "ÉSTERES DE SORBITÁN DE ÁCIDOS GRASOS",
+        "grupo_en": "SORBITAN ESTERS OF FATTY ACIDS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=85"
+    },
+    "305": {
+        "es": "Estearato de ascorbilo",
+        "en": "Ascorbyl stearate",
+        "grupo_es": "ÉSTERES DE ASCORBILO",
+        "grupo_en": "ASCORBYL ESTERS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=133"
+    },
+    "304": {
+        "es": "Palmitato de ascorbilo",
+        "en": "Ascorbyl palmitate",
+        "grupo_es": "ÉSTERES DE ASCORBILO",
+        "grupo_en": "ASCORBYL ESTERS",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=133"
+    },
+    "477": {
+        "es": "Ésteres de propilenglicol de ácidos grasos",
+        "en": "Propylene glycol esters of fatty acids",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=127"
+    },
+    "472c": {
+        "es": "Ésteres cítricos y de ácidos grasos de glicerol",
+        "en": "Citric and fatty acid esters of glycerol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=58"
+    },
+    "1100(iv)": {
+        "es": "alfa-Amilasa de Bacillus megaterium expresada en Bacillus subtilis",
+        "en": "alpha-Amylase from Bacillus megaterium expressed in Bacillus subtilis",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=349"
+    },
+    "472a": {
+        "es": "Ésteres acéticos y de ácidos grasos de glicerol",
+        "en": "Acetic and fatty acid esters of glycerol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=56"
+    },
+    "472e": {
+        "es": "Ésteres diacetiltartáricos y de ácidos grasos de glicerol",
+        "en": "Diacetyltartaric and fatty acid esters of glycerol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=61"
+    },
+    "472b": {
+        "es": "Ésteres lácticos y de ácidos grasos de glicerol",
+        "en": "Lactic and fatty acid esters of glycerol",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=70"
+    },
+    "476": {
+        "es": "Ésteres poliglicéridos de ácido ricinoléico interesterificado",
+        "en": "Polyglycerol esters of interesterified ricinoleic acid",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=191"
+    },
+    "172(ii)": {
+        "es": "Óxido de hierro, rojo",
+        "en": "Iron oxide, red",
+        "grupo_es": "ÓXIDOS DE HIERRO",
+        "grupo_en": "IRON OXIDES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=83"
+    },
+    "172(i)": {
+        "es": "Óxido de hierro, negro",
+        "en": "Iron oxide, black",
+        "grupo_es": "ÓXIDOS DE HIERRO",
+        "grupo_en": "IRON OXIDES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=83"
+    },
+    "172(iii)": {
+        "es": "Óxido de hierro, amarillo",
+        "en": "Iron oxide, yellow",
+        "grupo_es": "ÓXIDOS DE HIERRO",
+        "grupo_en": "IRON OXIDES",
+        "url": "https://www.fao.org/gsfaonline/groups/details.html?id=83"
+    },
+    "475": {
+        "es": "Ésteres poliglicéridos de ácidos grasos",
+        "en": "Polyglycerol esters of fatty acids",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=128"
+    },
+    "529": {
+        "es": "Óxido de calcio",
+        "en": "Calcium oxide",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=310"
+    },
+    "530": {
+        "es": "Óxido de magnesio",
+        "en": "Magnesium oxide",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=322"
+    },
+    "942": {
+        "es": "Óxido nitroso",
+        "en": "Nitrous oxide",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=18"
+    }
+}
