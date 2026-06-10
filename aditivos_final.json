@@ -4,6 +4,11 @@
         "en": "Mineral oil, medium  viscosity",
         "url": "https://www.fao.org/gsfaonline/additives/details.html?id=291"
     },
+    "261(i)": {
+        "es": "Acetato de potasio",
+        "en": "Potassium acetate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=245"
+    },
     "1503": {
         "es": "Aceite de ricino",
         "en": "Castor oil",
@@ -18,6 +23,11 @@
         "es": "alfa-Amilasa de Aspergillus oryzae var.",
         "en": "alpha-Amylase from Aspergillus oryzae var.",
         "url": "https://www.fao.org/gsfaonline/additives/details.html?id=295"
+    },
+    "407a": {
+        "es": "Alga euchema elaborada",
+        "en": "Processed eucheuma seaweed",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=15"
     },
     "479": {
         "es": "Aceite de soja oxidado con procedimiento térmico interaccionado con monoglicéridos y diglicéridos de ácidos grasos",
@@ -38,6 +48,16 @@
         "es": "Aceite mineral de alta viscosidad",
         "en": "Mineral oil, high viscosity",
         "url": "https://www.fao.org/gsfaonline/additives/details.html?id=292"
+    },
+    "905e": {
+        "es": "Aceite mineral, viscosidad media",
+        "en": "Mineral oil, medium  viscosity",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=291"
+    },
+    "262(i)": {
+        "es": "Acetato de sodio",
+        "en": "Sodium acetate",
+        "url": "https://www.fao.org/gsfaonline/additives/details.html?id=246"
     },
     "444": {
         "es": "Acetato isobutirato de sacarosa",
