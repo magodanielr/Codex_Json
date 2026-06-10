@@ -1921,5 +1921,280 @@
         "es": "Óxido nitroso",
         "en": "Nitrous oxide",
         "url": "https://www.fao.org/gsfaonline/additives/details.html?id=18"
+    },
+    "1101(iii)": {
+      "es": "Bromelina",
+      "en": "Bromelain",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=309"
+    },
+    "503(i)": {
+      "es": "Carbonato de amonio",
+      "en": "Ammonium carbonate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=312"
+    },
+    "501(i)": {
+      "es": "Carbonato de potasio",
+      "en": "Potassium carbonate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=199"
+    },
+    "500(i)": {
+      "es": "Carbonato de sodio",
+      "en": "Sodium carbonate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=198"
+    },
+    "504(ii)": {
+      "es": "Carbonato ácido de magnesio",
+      "en": "Magnesium hydroxide carbonate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=67"
+    },
+    "503(ii)": {
+      "es": "Carbonato ácido de amonio",
+      "en": "Ammonium hydrogen carbonate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=333"
+    },
+    "501(ii)": {
+      "es": "Carbonato ácido de potasio",
+      "en": "Potassium hydrogen carbonate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=200"
+    },
+    "504(i)": {
+      "es": "Carbonato de magnesio",
+      "en": "Magnesium carbonate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=76"
+    },
+    "500(ii)": {
+      "es": "Carbonato ácido de sodio",
+      "en": "Sodium hydrogen carbonate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=201"
+    },
+    "170(i)": {
+      "es": "Carbonato de calcio",
+      "en": "Calcium carbonate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=185"
+    },
+    "460(ii)": {
+      "es": "Celulosa en polvo",
+      "en": "Powdered cellulose",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=68"
+    },
+    "905c(i)": {
+      "es": "Cera microcristalina",
+      "en": "Microcrystalline wax",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=221"
+    },
+    "160a(ii)": {
+      "es": "Carotenos, beta-, vegetales",
+      "en": "beta-Carotenes, vegetable",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=118"
+    },
+    "1504(i)": {
+      "es": "Ciclotetraglucosa",
+      "en": "Cyclotetraglucose",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=411"
+    },
+    "331(i)": {
+      "es": "Citrato díacido de sodio",
+      "en": "Sodium dihydrogen citrate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=80"
+    },
+    "332(i)": {
+      "es": "Citrato díacido de potasio",
+      "en": "Potassium dihydrogen citrate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=78"
+    },
+    "332(ii)": {
+      "es": "Citrato tripotásico",
+      "en": "Tripotassium citrate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=54"
+    },
+    "333(iii)": {
+      "es": "Citrato tricálcico",
+      "en": "Tricalcium citrate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=195"
+    },
+    "331(iii)": {
+      "es": "Citrato trisódico",
+      "en": "Trisodium citrate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=4"
+    },
+    "100(i)": {
+      "es": "Curcumina",
+      "en": "Curcumin",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=107"
+    },
+    "262(ii)": {
+      "es": "Diacetato de sodio",
+      "en": "Sodium diacetate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=253"
+    },
+    "470(iii)": {
+      "es": "Estearato de magnesio",
+      "en": "Magnesium stearate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=417"
+    },
+    "160c(ii)": {
+      "es": "Extracto de pimentón",
+      "en": "Paprika extract",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=420"
+    },
+    "163(ii)": {
+      "es": "Extracto de piel de uva",
+      "en": "Grape skin extract",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=109"
+    },
+    "160b(i)": {
+      "es": "Extractos de annato, base de bixina",
+      "en": "Annatto extracts, bixin-based",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=391"
+    },
+    "160b(ii)": {
+      "es": "Extractos de annato, base de norbixina",
+      "en": "Annatto extracts, norbixin-based",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=392"
+    },
+    "418(i)": {
+      "es": "Goma gellan",
+      "en": "Gellan gum",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=6"
+    },
+    "350(i)": {
+      "es": "Hidrogenmalato de sodio, DL-",
+      "en": "Sodium hydrogen DL-malate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=374"
+    },
+    "514(ii)": {
+      "es": "Hidrogensulfato de sodio",
+      "en": "Sodium hydrogen sulfate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=402"
+    },
+    "1504(ii)": {
+      "es": "Jarabe de ciclotetraglucosa",
+      "en": "Cyclotetraglucose syrup",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=412"
+    },
+    "420(ii)": {
+      "es": "Jarabe de sorbitol",
+      "en": "Sorbitol syrup",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=393"
+    },
+    "965(ii)": {
+      "es": "Jarabe de maltitol",
+      "en": "Maltitol syrup",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=399"
+    },
+    "160d(iii)": {
+      "es": "Licopeno, Blakeslea trispora",
+      "en": "Lycopene, Blakeslea trispora",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=390"
+    },
+    "160d(i)": {
+      "es": "Licopeno, sintético",
+      "en": "Lycopene, synthetic",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=389"
+    },
+    "322(ii)": {
+      "es": "Lecitina, parcialmente hidrolizada",
+      "en": "Lecithin, partially hydrolysed",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=414"
+    },
+    "161b(i)": {
+      "es": "Lutein de Tagetes erecta",
+      "en": "Lutein from Tagetes erecta",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=384"
+    },
+    "322(i)": {
+      "es": "Lecitina",
+      "en": "Lecithin",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=77"
+    },
+    "965(i)": {
+      "es": "Maltitol",
+      "en": "Maltitol",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=159"
+    },
+    "160d(ii)": {
+      "es": "Licopeno, tomate",
+      "en": "Lycopene, tomato",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=404"
+    },
+    "350(ii)": {
+      "es": "Malato de sodio, DL-",
+      "en": "Sodium DL-malate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=287"
+    },
+    "352(ii)": {
+      "es": "Malato de calcio, D,L-",
+      "en": "Calcium malate, D, L-",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=337"
+    },
+    "1101(ii)": {
+      "es": "Papaína",
+      "en": "Papain",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=296"
+    },
+    "1101(i)": {
+      "es": "Proteasa de Aspergillus orizae var.",
+      "en": "Protease from Aspergillus orizae var.",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=297"
+    },
+    "500(iii)": {
+      "es": "Sesquicarbonato de sodio",
+      "en": "Sodium sesquicarbonate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=203"
+    },
+    "470(i)": {
+      "es": "Sal mirística, palmítica y ácidos esteáricos con amonio, calcio, potasio y sodio",
+      "en": "Salts of myristic, palmitic and stearic acids with ammonia, calcium, potassium and sodium",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=79"
+    },
+    "553(i)": {
+      "es": "Silicato de magnesio, sintético",
+      "en": "Magnesium silicate, synthetic",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=316"
+    },
+    "470(ii)": {
+      "es": "Sal de ácido oleico con calcio, potasio y sodio",
+      "en": "Salts of oleic acid with calcium, potassium and sodium",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=81"
+    },
+    "420(i)": {
+      "es": "Sorbitol",
+      "en": "Sorbitol",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=183"
+    },
+    "161h(i)": {
+      "es": "Zeaxanthin, sintético",
+      "en": "Zeaxanthin, synthetic",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=385"
+    },
+    "514(i)": {
+      "es": "Sulfato de sodio",
+      "en": "Sodium sulfate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=376"
+    },
+    "553(iii)": {
+      "es": "Talco",
+      "en": "Talc",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=299"
+    },
+    "515(i)": {
+      "es": "Sulfato de potásio",
+      "en": "Potassium sulfate",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=368"
+    },
+    "1100(iii)": {
+      "es": "alfa-Amilasa de Bacillus subtilis",
+      "en": "alpha-Amylase from Bacillus subtilis",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=300"
+    },
+    "445(iii)": {
+      "es": "Ésteres de glicerol de colofonia de madera",
+      "en": "Glycerol ester of wood rosin",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=262"
+    },
+    "460(i)": {
+      "es": "Celulosa microcristalina",
+      "en": "Microcrystalline cellulose",
+      "url": "https://www.fao.org/gsfaonline/additives/details.html?id=16"
     }
 }
